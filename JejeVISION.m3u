@@ -782,6 +782,15 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/119
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/76bp4s1596750190.png",SUPER TENNIS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/48
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1955,6 +1964,3 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857f48ecd2017f5e9c23f413e8/71cccc8985684c04808edf417b5ab89e.png" group-title="News",WION
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
-
-
-
