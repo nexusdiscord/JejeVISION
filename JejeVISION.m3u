@@ -1084,6 +1084,12 @@ http://vo01.mohdtv.com:8880/live/voby3037/69246643/71021.ts
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia",Astro Prima
 http://vo01.mohdtv.com:8880/live/voby3037/69246643/1702.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png" group-title="Malaysia",Astro Ceria
+https://link.zozotv.xyz:443/Rina923/390023/31
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-rania-656x388.jpg" group-title="Malaysia",Astro Rania
+https://link.zozotv.xyz:443/Rina923/390023/39
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
