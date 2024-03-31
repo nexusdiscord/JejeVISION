@@ -1959,5 +1959,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e3
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TEST",CEK Channel
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/908.ts
 
