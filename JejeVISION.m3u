@@ -348,7 +348,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="SGEM" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/800px-Gem_TV_logo_2020.png" group-title="Premium Movies",Sony GEM
-https://link.zozotv.xyz:443/Rina923/390023/72
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" group-title="Premium Movies" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13", CHINESE DRAMA
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
