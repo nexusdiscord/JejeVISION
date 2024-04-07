@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1450,7 +1450,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/893.ts
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Action HD
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"tvg-id="Sky Sports Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="Sports",Sky Sports Action HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97126&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1460,7 +1460,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97126&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Action
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-id="Sky Sports Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="Sports",Sky Sports Action
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97127&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1470,7 +1470,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97127&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Mix HD
+#EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sports",Sky Sports Mix HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97128&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1480,7 +1480,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97128&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sports",Sky Sports Mix
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97129&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1490,7 +1490,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97129&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Arena HD
+#EXTINF:-1 tvg-is="SkySportsArenaHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://archive.org/download/SkySportsArena_201708//sky%20sports%20arena_thumb.jpg" group-title="Sports",Sky Sports Arena HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97130&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1500,7 +1500,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97130&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Arena
+#EXTINF:-1 tvg-is="SkySportsArenaHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://archive.org/download/SkySportsArena_201708//sky%20sports%20arena_thumb.jpg" group-title="Sports",Sky Sports Arena
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97131&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1510,7 +1510,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97131&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricketHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Cricket
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97133&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1520,7 +1520,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97133&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="Sports",SKY SPORTS GOLF
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97134&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1530,7 +1530,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97134&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",SKY SPORTS MAIN EVENT HD
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngfind.com/pngs/m/104-1042921_detroit-lions-vs-new-york-jets-sky-sports.png"  group-title="Sports",SKY SPORTS MAIN EVENT HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97135&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1540,7 +1540,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97135&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngfind.com/pngs/m/104-1042921_detroit-lions-vs-new-york-jets-sky-sports.png" group-title="Sports",Sky Sports Main Event
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1550,7 +1550,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Premier League HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sports",Sky Sports Premier League HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1560,7 +1560,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sports",Sky Sports Premier League
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97138&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1570,7 +1570,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97138&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Football HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1580,7 +1580,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Football FHD
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97140&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1590,7 +1590,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97140&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1HD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",SKY SPORTS F1 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97141&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1600,7 +1600,7 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97141&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-id="SkySportsF1HD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",SKY SPORTS F1 FHD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97142&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1610,6 +1610,6 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97142&ext
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Golf HD
+#EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="Sports",Sky Sports Golf HD
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97143&extension=ts
 
