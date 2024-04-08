@@ -402,10 +402,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/11/201/png-clipart-zee-cinema-zee-tv-high-definition-television-zee-entertainment-enterprises-others-miscellaneous-television-thumbnail.png",Zee CINEMA
 https://link.zozotv.xyz:443/Rina923/390023/302
 
-
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png",Chinese Drama
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4081
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png",MyCinema Europe
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4061
 
 <================ Korean Channels ===================>
 
