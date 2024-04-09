@@ -297,7 +297,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
-##http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/6.ts
+#http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/6.ts
 
 <======================== Premium Movies ==========================>
 
