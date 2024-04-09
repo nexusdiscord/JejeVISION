@@ -781,11 +781,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 <============================ Sports ========================>
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",BeinSport
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",BeinSport 1 Indonesia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4039
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Beinsport 3
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Beinsport 3 Indonesia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4040
 
@@ -1701,11 +1701,19 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311
 
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo=",Bolywood Movie 1
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3273
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3274
+
+#EXTINF:-1 ggroup-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo=",Bolywood Movie 2
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3276
 
