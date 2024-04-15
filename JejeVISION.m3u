@@ -447,7 +447,7 @@ https://link.zozotv.xyz:443/Rina923/390023/302
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png",Chinese Drama
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4081
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4081
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png",MyCinema Europe
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1702,13 +1702,13 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3273
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 2
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3274
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3274
 
-#EXTINF:-1 ggroup-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 3
+#EXTINF:-1 ggroup-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
