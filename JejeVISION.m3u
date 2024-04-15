@@ -1721,6 +1721,14 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" group-title="Indonesia Channels",Liputan 6
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_w4722260/landscape.jpg" group-title="Entertainment & Lifestyle",Hits Now
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5150d70b-f126-4c8d-86f0-2d7df0d19ae2)/manifest.mpd
+
 
 
 
