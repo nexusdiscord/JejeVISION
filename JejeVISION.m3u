@@ -24,7 +24,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",103-TransTV HD
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
@@ -33,7 +33,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7" ch-number="5" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="Indonesia Channels",104-Trans7 HD
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
@@ -90,7 +90,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",115-NET TV HD
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
@@ -209,7 +209,7 @@ ttps://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",200-HBO 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -218,7 +218,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",201-HBO Hits 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -227,7 +227,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",202-HBO Family 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -236,7 +236,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",203-HBO Signature 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -245,7 +245,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",204-Cinemax 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -413,7 +413,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url=tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies",231-Bioskop Indonesia
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170341bf1000905/manifest.mpd
@@ -526,10 +526,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",308-Discovery Channel 
 #http://myteve.online:8080/stadnik2/7082341272/157597
 
-#EXTVLCOPT:http-referrer=https://indihome.co.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",309-Animal Planet 
-#https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/animalplanet
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -596,7 +594,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/9229.ts
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",409-Warner TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
@@ -665,10 +663,9 @@ http://103.226.232.196:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="DaVinci.de" tvg-name="DaVinci.de",501-Da Vinci
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://indihome.co.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",502-MENTARI TV
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/mentari27
 
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -689,7 +686,7 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&exten
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",508-Cartoon Network
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
@@ -863,7 +860,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
@@ -1006,7 +1003,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574f658b1017506741c665418/f37dcbd1fbf445e3a9900537f1778f63.jpg" group-title="Christian Channels",Pijar TV
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
@@ -1507,7 +1504,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"tvg-id="Sky Sports Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="Sports",Sky Sports Action HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97126&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97126&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1517,7 +1514,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-id="Sky Sports Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="Sports",Sky Sports Action
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97127&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97127&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1527,7 +1524,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sports",Sky Sports Mix HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97128&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97128&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1537,7 +1534,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sports",Sky Sports Mix
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97129&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97129&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1547,7 +1544,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-is="SkySportsArenaHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://archive.org/download/SkySportsArena_201708//sky%20sports%20arena_thumb.jpg" group-title="Sports",Sky Sports Arena HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97130&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97130&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1557,7 +1554,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-is="SkySportsArenaHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://archive.org/download/SkySportsArena_201708//sky%20sports%20arena_thumb.jpg" group-title="Sports",Sky Sports Arena
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97131&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97131&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1567,7 +1564,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsCricketHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Cricket
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97133&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97133&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1577,7 +1574,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="Sports",SKY SPORTS GOLF
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97134&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97134&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1587,7 +1584,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngfind.com/pngs/m/104-1042921_detroit-lions-vs-new-york-jets-sky-sports.png"  group-title="Sports",SKY SPORTS MAIN EVENT HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97135&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97135&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1597,7 +1594,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngfind.com/pngs/m/104-1042921_detroit-lions-vs-new-york-jets-sky-sports.png" group-title="Sports",Sky Sports Main Event
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1607,7 +1604,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sports",Sky Sports Premier League HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1617,7 +1614,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sports",Sky Sports Premier League
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97138&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97138&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1627,7 +1624,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1637,7 +1634,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football FHD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97140&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97140&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1647,7 +1644,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsF1HD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",SKY SPORTS F1 FHD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97141&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97141&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1657,7 +1654,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsF1HD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",SKY SPORTS F1 FHD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97142&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97142&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1667,19 +1664,19 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="Sports",Sky Sports Golf HD
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97143&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97143&extension=ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3309
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3309
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311
 
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="",Test Channel 1
@@ -1705,6 +1702,9 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="Sports",Sony Sports 4 
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="Sports",Sony Sports 4 
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten5
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia", Astro Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
