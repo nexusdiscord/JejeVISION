@@ -654,6 +654,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment & LifeStyle",419-Fail Army TV
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",420-HITS NOW 
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
 <=============== Kids Channels =====================>
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png",500-VTV
