@@ -553,7 +553,7 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
 http://myteve.online:8080/stadnik2/7082341272/298503
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
-http://myteve.online:8080/stadnik2/7082341272/298535
+#http://myteve.online:8080/stadnik2/7082341272/298535
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
