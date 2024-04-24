@@ -686,9 +686,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a00p/index.m3u8
 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Kids" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MENTARI TV
-#http://myteve.online:8080/stadnik2/7082341272/298546
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Kids",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
