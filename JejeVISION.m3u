@@ -783,7 +783,10 @@ https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1 HD
-http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391035.ts
+#http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391035.ts
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1 HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -800,7 +803,10 @@ http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391036.ts
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3 HD
-http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391037.ts
+#http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391037.ts
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3 HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
