@@ -865,10 +865,10 @@ https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport3.m3u8
 https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports",BEINSPORTS 1
-https://raw.githubusercontent.com/hendroagung2904/source/main/BeinSport1Ind.m3u8
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165105
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",BEINSPORTS 3
-https://raw.githubusercontent.com/hendroagung2904/source/main/BeinSport3Ind.m3u8
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298506
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Sports", TENNIS CHANNEL HD
