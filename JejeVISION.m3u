@@ -815,37 +815,14 @@ https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.
 #http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391035.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1 HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2 HD
-http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391036.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3 HD
-#http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391037.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3 HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3 HD
+
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4 HD
-http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391038.ts
-
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1207,31 +1184,6 @@ https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="China",Anhui TV
 https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.multivu.com/players/English/8357551-the-reader-china-cultural-cctv1-jane-goodall/image/Logo_1530203138035-null-HR.png" group-title="China",CCTV 1
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://archive.org/download/iptv-vn//china/cctv2.png" group-title="China",CCTV 2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://archive.org/download/iptv-vn//china/cctv5.png" group-title="China",CCTV 5
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://archive.org/download/iptv-vn//china/cctv5%2B.png" group-title="China",CCTV 5+
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv6.png" group-title="China",CCTV 6
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv8.png" group-title="China",CCTV 8
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://archive.org/download/iptv-vn/china/cctv9.png" group-title="China",CCTV 9
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tvkeep.com/uploads/cctv16.jpg" group-title="China",CCTV 16
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
-
 
 
 <=========================================== TVRI Group =========================================>
