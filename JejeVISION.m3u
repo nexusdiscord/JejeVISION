@@ -1534,3 +1534,66 @@ http://iptvkita.my.id:25461/live/direct/hometv/2045.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://w7.pngwing.com/pngs/477/717/png-transparent-sky-sports-television-channel-streaming-media-live-stream-television-text-label-thumbnail.png" group-title="Sports",Skysports F1
 http://iptvkita.my.id:25461/live/direct/hometv/3501.m3u8
+
+<====================== USA =============================>
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/1014/761/png-transparent-logo-destination-america-brand-television-channel-design-television-text-trademark.png" group-title="Entertainment & Lifestyle",Destination America
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12768.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" group-title="Knowledge & Documentary",Animal Planet
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12790.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/640px-Hallmark_Mystery_2024.svg.png&w=640&q=50" group-title="Premium Movies",Halmark Mystery
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12744.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="Premium Movies",FX
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12752.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png" group-title="News",CNN International
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12772.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/800px-AMC_logo_2016.svg.png" group-title="Premium Movies",AMC
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12792.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entertainment & Lifestyle",Lifetime
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12732.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12722.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="News",CNBC World
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12773.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Showtime-Logo.png" group-title="Premium Movies",Showtime 2
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12708.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.dribbble.com/users/4636/screenshots/823472/media/d30932e13c85527559124d77fa0b4451.png" group-title="Entertainment & Lifestyle",FXX
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12751.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://coxmedia.com/wp-content/uploads/2022/08/Magnolia-3.png" group-title="Entertainment & Lifestyle",Magnolia Network
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12762.m3u8
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/2309px-Game_Show_Network_2018.svg.png" group-title="Entertainment & Lifestyle",GameShow Network
+https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12747.m3u8
+
+
+
+
+
+
+
+
+
+
