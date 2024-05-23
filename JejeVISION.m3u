@@ -168,9 +168,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels",131-Magna Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1753,6 +1753,3 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjk4MDMxNTciLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzgxMjM5NTAiLCJyZWZyZXNoX3Rva2VuIjoiejFWcnVNcU00Z3R3V3ByMTNTUVVNb296eEcrM3V6QWxscGNKSWVcL2NMTU5mT3Qzd1htQmNKdTlMaThFWG1sN0NIQWxPZzZKem40OTJGM3ZxTTh0alVZQythWTE5dUF5MEs3WjlBdVQwSU0xQWJXN2x3RU9LNHNPNFdIVmhsUHNHZXFFNkVvYWUrXC9xMUZcL2JzNFVsY1lEUVN3U0g5MlNMNHVOdWtyQjNKNnMzVlk0ZTZqd2ptWFI1KzduVndPV21LdmpzdldTZUpYWVZFbVhYblk3TU9RdEt4c01QbkQzRitMNzc2Q0FteHhod0c5RjNkVlwvdyt1Z2dnRXI0SDk2V1NJTTAzcEtxSkl5NVhidXNremZzSE5aN2w0YlUrUHlva0hYZU4wMU5iSHlhTTJ4ZVYxVjlOVktWeHhOQ3RHaFwvYyJ9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTczMDUyODEiLCJyZWZyZXNoX3Rva2VuIjoiM3BwZnk4S3Q1dFdUUDN4VVZJS1pjdTBNbFdncEZIaDVQUjNzekV1aW9uakFuN0t4cEZCVmFqWWsyMlFLRmxqVjM4NXBZQW5JUDJDWGtpUmNpanZLeEJnNFhVa1lMRTNuanFrb0I0UThiZTA4Zit0M294REtKSk5XUzB0V3lMMzNhRFpzWWRVNjROMDFndGgxbno4eWpSYVZnTnloSXVHaEZSOWRKMjZnQzA5TlFNRVVqMUZSZTR4UWk5dDVobzJka094M1hUM0RROFNKaE9lOFFtVEhHQlBlRlwva2JHdk1EQURFTlpyN0hYR3JVUm51RlZUM05MRnlaazFsYytmY0ZScjZBSTVac2dBQTA0Y3lJbXh0TnRxbTN5UDd5WVwvTVpDRTY2RFpiMXllUTFVWXNKOWhPUUNKa1AwTktucmJlc2ttQ09mVGtTaElMV000a3V4a1JYcHcwWW5IRVhJak1ybCtLQjhNOEZGTG9GQWFTTFcxZ1lscENGNDdQZXdaUVMxVnpoakJhMlwvWFNFbzJIczFyemY1UT09In0= 
-
-
-
