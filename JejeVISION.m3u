@@ -27,11 +27,37 @@ https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",TransTV HD
 https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",TransTV HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNjUwODE5MjQiLCJyZWZyZXNoX3Rva2VuIjoidlFGbzlUZmxpY2prUVNGU2NkXC9JWVBLYkNoWDZiSU1IOG9rRkpvTWhaY2ZzSWhMNXJySDNFS3RXTU10MVpkYzNrTFZjenBramdYSkxLdWRyYjRHazJLRlkwTzJnVlUyRGhPRmtBbVRYMTc0YWIwbE5RQTB1Yk5KM3I1NjdkU1VwYWtEOTk5K1N0cjBVdlhIMFRwNWZJQXdIRVdpSWUzbnJXZmt4ajZnYkFBRDZDem5tZW1Ra1RmeE9pblJDWXBUdWdjRXZPQk5JemtRVFJqZkxqSTlRNXpvcVRUZTZjXC81R0djQ3dGaWhHVWVtR01wXC94TjNSRkc1UUpDNHlCQUUwQU5iREVXN2RwOVpkUUF5NnVcL29GUHR1U1Zuc3dBNnNqejc1Qm54SkxYTFwvdUlXelpvRVkzWVZqNXhsT1dYSUlNZm5ldE14VUJINEFlaUlUV21xeEN2TjR3Y3J3S1wvSGdcL1Rla2h3a1o1YlNkUT0ifQ== 
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
 https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzUwMzkxNDIiLCJyZWZyZXNoX3Rva2VuIjoiSVE0XC9OeHdidXhcL1o2U0hsdGJGT1Vta293dnFaR001Uk5MOEl0NWcyNjJ1ZDNDKzJWcG1CcUd6OU1pcEZKa2ZWNFVMczdwUGhDVlkydGJGK3pYV1VRUnBtbHBwbUlNVHNpcWVodFlaU2JkXC9OME1URnJrM1FVYlc5Mk44bmxqWlludm4yM0x2OTlHXC9Ec1ZFWU85QXJFUVwvbnExZHRPSWUwNkRXXC9iMEJ4RHpEWUJmbnNBa1wvWmVFTjNNQmtjZFBNMVIxU0IwMnJIeEt6Zm9kN2NSN25KSjhNM1EzYTMyZ1dPXC9rdTVTcXIxbDJ3SFZOTklJbUtPbDl4TlBWVjI1ZnU3MlVWdHlEV0J6aWlUbUsxcVpNNWQ5OWpLNXJTd2xQdEs4UHJiMnBVZWpwUkpyMWVMVXRZaHh4UlhsbktrQVwvblR1bEN5RGVleG1WaXVZMHVQTm1OVCthc2t1R01PVFg1UG1xd0xTZE9scnJBPSJ9 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N9aGoqBfebsIn3j9tXao6HJY5MKm00vGFexTOFJS0g&s",MENTARI TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjYzMTc5NTgiLCJyZWZyZXNoX3Rva2VuIjoiWWZmcUpHQzdrNDZiVlI0aDJJanhWTlZJeTA0bW5EeEN0eGpDWnhOS0JUUDFiUXR2ZDgwWFNnUWthSEdVSG9FWWUyeE9aTkZTOW5mSGlvZHh0bERHVDNYNDkyZWRWbGh0WmFvQ1kwUUJxYUo5RGM4bVZLaVwvWkZDaUVlalp2TkVvUXQrUDRXVWdVOXllZGgwbjRBTVNXNEF3WkJ5NWliNG4zNncxSnpUdktUWmJzTHRDeWV0NjFFV2dkRHd4enBKTEQwbjNTckQ1ZlBSUlZiUXdveFNsRDBaRExFWTQ5ZW83VXU1T2ZZSFJmVVR0NHpNWXJCUFNpc1RCbW9XTW9Tb3IwXC9wY0dPYjJ3dlJxU1wvMHU5UGd5c1E0bmdVUU5jZENkSXY1eEdsZ3lQUGpKXC9GWDE5UmRKeDVTRnU4QWFLOHNsNVZtM3c2YTE3OHY3OVdBR3lnMW5IeVJWMEtqVitETUpwRm9hcVNTWkZBVT0ifQ== 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Indonesia Channels" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VIVA TELEVISI 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzMxODUwMjYiLCJyZWZyZXNoX3Rva2VuIjoiU210b1NWZkhIVlFlczd2Y1M4cE8yNVdwTDBoOHFxNUdoek9NcEFtXC9UVmdRM2laZFk2aXpxNjNGV1h2ejFkcWZFSmxqWDNVNnR0VDl4MU13b1wvNGlvQmczN0UzR1VyMDJTOFcrWHI5cEhjUTBQV096VlpUa09DdzlBNG9VWWZoVlJEbVhZaHZQRFR2b0hraENqWTBLNWFJT1R0Zzd6VzJubk1XTERnOXdLeGQxZGpiZGtsRlZsUmFwR25vSzNCRXoyYnhJbWdSZVJTU3ZpUEJhZnJmZUxXbGVBU25JZkpRQ05sVUM5U0pGdnQ5aFRyekNscURTSjVURGN6TzV1XC80c0ZoN3BIS1FQUnNPTWhNSnllMU83Y2FtN0F3Z3RcL09NUFMySmZaNndtdTg0a0RTdEpoOEQ0S00xTE51WmduRW1EZVU0a1FBNk11Z09iM043QThPTGVvajRaczQ3TzN6NlRNb01aQW5DNVBXST0ifQ== 
+
+
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -445,6 +471,23 @@ https://testfunctionlive.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Premium Movies" tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png" ch-number="92" group-logo="",Citra Bioskop 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMTMyOTQ3NjAiLCJyZWZyZXNoX3Rva2VuIjoiOThFVm56S3FVUWcxcFhmRkcwMTRzZXJRUnlCU0h5ZnFBZVJ4UklManQzSTFGelFXTVJ4Rkk2a3NUTjVHbU90TVgyR1R3V3FXREZZQnRjNHVwZTdONmZhckJGR0doT2JwMFNZNWdJZU16aGNHN3JHSG9tWEErMFpQR3RyNElmcmk5VEFWdnozWHVvcGdWd3g1NW9CUVVDSU5ISUtIVktBcXpxOHJ6Sk45eHBrV1lUVGVOMjYzRE9pY1JWd0dHT2JxZzlpcnRcL05jVVU3S2ozSUtMOGFuNFdRMmQxVm9HM3VCaEtvVnRhMHM0WHhHTnZ5a3RYd3p6bDk2OVhaTnpwQk13UTdNSkRUR3VPVHNVXC81eTUxM3hFam05V0VrMkVuUmhFblV1bzZoNHNYdVVWOW5rVDdnM2dZdlZKVHhpRnhyNyJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzAyMzU4OTEiLCJyZWZyZXNoX3Rva2VuIjoidGoxeThVNkhBR3hJTURzcndqY0w2aVVpT0lMS2h3bk5BbWk4XC9JUDBUZmVHUUxjN0Nzd1wvbzZrd0NmS2VxSW1NR3hkTUVkcW9RM056V3BUa2Zya3BzR2RLQ0FoTnB5UVJGUTVQRWNaY01uTTd6TEw1YWtLWUF4c2htZHhjRFE0ZHNyMGpRYkJkSkNZamt6VlwvMU5tNnF1ZEJ2TlwvXC8rcG83UTRWNk1VZXIySEdoM3psYjhyalpIUTdTaUZIV0FkOWtFWllGenlnWGFpN1J4b21mZlczeEpFTk5idXQyZTNwNzhGR1wvSGdmTk5KMmVhN2lSeklTckhuWnUrVU1vUmcyNlViaFVmQ0VDZnVWMkwwZWExeFB1Y0loZmprWUJlcXRyQ2lTT1NvT0crRTQzSE5uRUx2NXdwMDU5YkN3YlI5Q1JtdlVUNmo3b0lZTXNUMHZ3djBkS09mVTBHRUJvS0JTa1FCQlNFUURIOUMxYkd2Nml4U3hFS0JPdlJpUm0yYlBHIn0= 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" ch-number="92" group-logo="",Citra Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDc0NTk2MzIiLCJyZWZyZXNoX3Rva2VuIjoiZmNPWXU3Zjd5cm8rcmpPTUFBeFY5Um9ZeWMzSjdDXC9MTTBUYXJ3MU1RUDcwc0VxVUVObmZiV0VyXC9XZ1NDSkVaSjJuK0g3bklONFhmcEFJK0E1UU1oSk9DaFJqbjJUZWViZlwvdUc3T1R6WG9cL3A1TWdDMkRrek5aTlZZVW9MdUxcLzhIc1pHSWR5UHFyUmtPWGx2S0FBNjR3aGdjOVBzNkZScVdDREU3T1dnYmVFZThDbmI4bEZ2bStzQ3UrcTQ2cUlWOEYwUHNjUDhzaUZFekJlbDEyVnNJMVRqNzd6ZnNCSEhpNHhVeGhBVjZ5dFl1RCs2ZHNvczY2SHF2d0Rma2Z4aTgrcjhQZ21PVGN3cTRkOXoycmM1RVJtVndpWXU2VmdHRFQ1VHFmRHMzQVh1TzhraDZwMjNZbVhjZDdDeGR2TiJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDg1MjkwNjEiLCJyZWZyZXNoX3Rva2VuIjoiVjR3Qm5VSFVtYm1QZ3R2eG9UVmFWK1M4OGpyREJBKzVjZkgxTjZReUM5RlhSelZZSnRSZGZwTmZKVTlGcjZzMVhKWkY0azZUdzRQNDVpcXZHK2pOUEZCamZuZDI3dEVtd0ltOUJ3SFlSOFwvV1pRWEZVK1o3bngzd3FGYW1oXC9yZFNjNmRFT3dQNFwvWW04NndVWW43dDlpdVE4TjkwalwvUkRkS2d2dGZNOUFJT0ZHMG1TUTdCQlYrQlVjeGErXC9WaDRXbXlTVFdjOFhIWGdGR0liTUxqY1ZwbTRoc1M2cVRsQ3hCZzAwT0d0RWJ4c1wvM1libXNIbmZoSUZRanZIR092XC80OURsTGZLZElMdXRFODh2Y1VCSjhnSm9HdTF5M21zazVWR3I5eitOQ3BWSTFVNFJJK0xiamZvck5ob2hXaklnUEp0aVpQZG1iUjZxNHEwa0d0aVVxOVoxRXd5cjQwdjZ5XC80Y3lEMVhnMFk9In0= 
+
+
 
 <================ Korean Channels ===================>
 
@@ -563,6 +606,14 @@ https://testfunctionlive.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocken
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Entertainment & LifeStyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoag9rURgNNSmL0QbGV814imK3opzgCyit6fqmIiQUw&s" ch-number="92" group-logo="",Citra Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzY5NDAzNTEiLCJyZWZyZXNoX3Rva2VuIjoiWFZXeVNUSE9aOUp3UCtcL0ZXQU9iK2FXd0d2ZFdMaEZuZU1haGt0K1wveldKU0ZlWXFcLzhabnJ5V3FDcUNLTTJVdWJPejFNU0VGK2Y1VnFvUXdmNWNkNEEySEh1NEIxXC9QNFJ1T2RIZ1wvR091YUx6UG9WRmFLbGJhVjMxQ1AyOG5Yb0pVMlBKNWFMXC94R1lkS0VtOVFRR25lam5abnc4VTJEcUNqZlBYSTY5UDZraTFUQ0NwZ25zSVJFdnNUTVlRQmViVHJFN3h5R3lmU3ZGWlg4QklIMHUzME5cL2lqV0pcL0E4TWhvU1k4a20xZ0NLbjEzZWc5cU5DWnhUV0w0NnZuS0R4Zk96WHV5K2FmWnQwMTMrcWhPTFdSMFJ4MVdTR1A5UzltNWF0cVJtajhTS1UxOUo0aUV3TGozSU9pQlRvZlBEUiJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDAyNjg3NTMiLCJyZWZyZXNoX3Rva2VuIjoia0lZV1RydkFKczl3dEtuQ0h3Q2VzNzdhdExrOG54ZHVNNjlXcEY5OEpQZ1BVTVZoRDVBbDJhMU9yXC9nT0tpVk5yS0hEZm44N1hLcjQxVnBsdzNMR01UamVpSUpoN2FNY3RLTVdqRGFybFE3ekFpandTRjlodmJ5Z1wvRjlJQ0ZTcHQ1TmpjXC9md3gyUnJGdk9rTWVQRWxDTWRMZklVOVlTZXVYMG15UnNGZTdZV0llZEVOUmVxT1lGWnhLXC9EMUZNQmgzY0Y5VGU4b2xsMVwvajJEUnNOdHhpNmV2elwvRk9HN2h5R05IdVpLMFBmQlhEMHdxZ25RTjNSMmZTblZhNGhtV1ZOaGRSNkkra3RKR2lBME9wMlhuK2lLVjNlXC82UWsrMXJuZ25vQmtVd3BxdHc3R0lkQnVwMGZYVUpaTnB4SXF5TzdtaTRKRTl1d0d4bjMyWG5LYVcreWdJWXJcL1RnaDlsSDdydDVSQ0lTWjRLYkUxWWZcL2oxMll6MGd4dlwvU1QxQiJ9 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
