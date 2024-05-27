@@ -1379,3 +1379,7 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 
 #EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 11 FHD
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032519&extension=ts&play_token=7pY8UHAipV
+
+
+#EXTINF:-1  tvg-logo="" group-title="Trial",Trial 1
+https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
