@@ -268,6 +268,10 @@ https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
 https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 group-title="Premium Movies"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -518,6 +522,10 @@ https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -575,6 +583,11 @@ https://melon-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang - [Channel 351].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTINF:-1 group-title="Entertainment & LifeStyle"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment & LifeStyle" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp
 https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
@@ -1374,3 +1387,36 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 
 
 <---------------------- Trial Sports ------------------------>
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="Sports",HUB PREMIER 1 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032529&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUB PREMIER 2 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032528&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="Sports",HUB PREMIER 3 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032527&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="Sports",HUB PREMIER 4 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032526&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 5 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032525&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 6 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032524&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 7 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032523&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 8 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032522&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 9 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032521&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 10 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032520&extension=ts&play_token=7pY8UHAipV
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",HUB PREMIER 11 FHD
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032519&extension=ts&play_token=7pY8UHAipV
