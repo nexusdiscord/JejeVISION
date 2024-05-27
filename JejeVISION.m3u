@@ -46,8 +46,7 @@ https://s.id/mojiHD_shareext-xs
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8?app_type=web&userid=lite&chname=moji
+http://xtv.ooo:8080/RiyazMPT/433833/350997
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -489,7 +488,7 @@ https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
-https://github.com/openwindows037/sri-tv/raw/main/discovery.m3u8
+http://toh-users.xyz:8080/42204120/16250164/856869u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg" group-title="Knowledge & Documentary",National Geographic
 https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12724.m3u8
@@ -584,7 +583,7 @@ https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 #http://iptvtree.net:8080/AmirBilali/76448035/298503
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
-https://github.com/openwindows037/sri-tv/raw/main/tlc.m3u8
+http://toh-users.xyz:8080/42204120/16250164/856914
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV
 https://github.com/openwindows037/sri-tv/raw/main/hgtv.m3u8
@@ -739,6 +738,18 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -779,33 +790,17 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="Sports",Sony Sports 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 1 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 2 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 3 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 4 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports",BEINSPORTS 1
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165105
+http://xtv.ooo:8080/MansoorWapda/258741/350900
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",BEINSPORTS 3
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298506
-
+http://xtv.ooo:8080/MansoorWapda/258741/350901
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Sports", TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="Sports", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
-
-#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png" group-title="Sports",World Fishing Network
-http://117tv.icu:8080/live/X5xRz0/944877/10477.m3u8
 
 <====================== News ========================>
 
@@ -946,7 +941,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/158360
+http://toh-users.xyz:8080/42204120/16250164/856918
 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
@@ -959,7 +954,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/171968
+http://toh-users.xyz:8080/42204120/16250164/856801
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
