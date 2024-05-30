@@ -1486,6 +1486,9 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 <---------------------- Trial Sports ------------------------>
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXKfF55QIiZwbCZih6LYlSHqF3qr7m9mhig&s" group-title="Sports", SPO TV Malaysia
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
+
 #EXTINF:-1 NBA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="Sports", NBA TV
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nba_norvegicus/playlist.m3u8
 
