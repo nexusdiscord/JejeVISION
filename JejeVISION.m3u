@@ -496,18 +496,9 @@ https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
 https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
 http://toh-users.xyz:8080/42204120/16250164/856869u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTU4NjQ3MDMiLCJyZWZyZXNoX3Rva2VuIjoid2FsN1ZvT1AxZnRHTDdOUGljN1FLZ3lEbVNjbGlFdTcybFdGVXBPekprTGpiZ1Fod3hTRE9Lck1wMlhBVmVMQUlZQ1lVNFdRUkZ5VjNhZGd4UFluckIxT3hNOTRvWEc5ZkpSMlJUcE8rVExYdU1hZ1FHVVNrRXhxWm93aHk4enZjS0ZFZ2FCNUtNRFh1UkRRS0F5NnpxZEdrVTZnVElFdXF2VlpWNXdwMEpXdDNudmNGYlRrb3NpUklTRFwvRGgya3E0djE3Z2ZkOTQyNldZSGd1TWNZeE9obnc3V0Vlc3RrXC9scENsYzdlbER6ejY4QVBiNjkzY1ZUUEhvdHY1bTVadEJiUlBUcUlEbW1oOCsxeVk0Uno5TnRjRDRzZ0M3YmJOTFJqUmxPVWx4MEs4ZDhlc1l4dysxdlVjWXl1M1Q1ayJ9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjcwMzEyODkiLCJyZWZyZXNoX3Rva2VuIjoiWlwvd0xCTVZMdFlwWVYzMkpsUHdXTnEzR3NNdG9LXC93UDd5dEJxYXM5ZzN2c2VxZVJGcmhkUkVYUXZ3VjNNUzIzR2Q5dmE1b1pFSHpZQ3dMb3VkcXp3elA4anVyek1UbStLMVRqWTlTQlNsbEF6SVZDd1wvakVwUiszV2hKUTVMck9WWE5aWEtJSGlLS21Tc0Q1cjZUYlI1Yk9NUHZCOTZ4eFwvSktoMnBxREFTVk9ab2VoMVAySHZva044OG9mTjZaMHcwN2xDVm5DZGdoY3Q4NU9ncVk4NFNTVUpjVm13aU9SSmN3VWkzU0JMVDdjbFdTdHVUaUdPbnZKS0JkaldQVVwvMzExXC9XTUY4b1o0TWt4eE8wYlwvc28xVVFZYXpMN3FxVXQraTAydGF0T3c5RGtqT1cxYlp4emdiSEFyMEJoMGlsaGxMc2t2QlphbEg1dnZGbElSeDN5cE9lXC9wQzV0WllPSmVHN3BhckxkT2MyU1ZEam1jN0VHTGZrajY3U3hkZEIifQ==
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge & Documentary",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -632,14 +623,6 @@ http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298503
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
 http://toh-users.xyz:8080/42204120/16250164/856914
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMjUwMTkzNjgiLCJyZWZyZXNoX3Rva2VuIjoia1BZVFpTcDZZemlFdjRWRm9ISDJqSEpZVEtHdFwvdW5pMDRLTllHSEtaUEYrQTdUMk5reXAyampOS0g2SjZ1RUJNXC9LNlc3TDUrVkFNaU16dzkzNDdmQUNrUHJhUExWVjc5a2ZETmdmdERRa2ZGZWZBXC9xWU15dUEyaGpOZTdBZEJMUFVBZFR0MTI3amF0a1wvRk9uUkhtd2hzaUtkSmRCUGR1YjhPWUdJNHcyTTZMS2FaZmxHMXhXU3lSSWNCbnBXWGZpNDBUK1pBVXNCT3VtWm5WVnE3Y0FZUklLejlWQ0Z0WVwvZlN6dWtVUko1SHU4bjVPSzl0ZVoxUzZZNnYxVnBmcmIwSWkxZGUxdkxjYWJtUGhsNlhmd3ZDSG5aejdvaTRMN1c3MXBhOENUSE54MXVTZUF6RnQycUp5YVhKNVVobiJ9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDc1MjM0ODkiLCJyZWZyZXNoX3Rva2VuIjoiTFhIWVhqMm10YXJDeFk2bW9lWFNDbXVTSHBcL3lxUjRLN2RYY3JMWnoreGZcL1NkamFHWW5mb2Mxb2ZkUFZEQ1wvQWZISTFXMmhOXC9xdXJHNGtGcktMZ3lvNUROeGZ1dzlEU21PYXlWeHJqS3FQcXdGMytBZDM1YUlHN0NMVmdrTWQ5cnhHM0JiWUZYcU42dnhFZEc2SFhYaGlWK092YmltT0RFQlwvRXdKVG42c2dkU1dwS3RWM2RnOW1pdVI5OXlkd3ZpYm9cL1hibFpWWjZUeGQ0TXVDdWlDdFdkTEVGaVM3OU8yRDNRcmpPbml0VldcL0RCMjR1RHZ4d2N6QUMxb0VVT1pvenlGNnBzMU5VbHN0cU1xSm44SktSa0pYWEc4ZUNlaFMrKzMzQXFwZTZLRGM2VWx2MUdMZmt6MUVaazBMUTdBN2p6T05oMzNUZ0hEUWpibVM0djNkaENSOFwveFpWVFJ5TDFTZ0tnSldCZTg9In0=
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
 https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12758.m3u8
