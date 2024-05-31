@@ -518,7 +518,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="group-title="Knowledge & Documentary"", CA Smithsonian Channel (B)
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="group-title="Knowledge & Documentary",Smithsonian Channel (B)
 http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
 
 
