@@ -620,8 +620,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/sgem_rattus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment & LifeStyle" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp
-https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/17/0/imgbin-travel-logo-t-e-tofino-travel-NiWuxNqS5ZTSY8iaRfnwNN8pf.jpg" group-title="Entertainment & LifeStyle", CA: Travel Escape
+http://117tv.icu:8080/live/X5xRz0/944877/108136.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298503
@@ -633,13 +633,8 @@ http://toh-users.xyz:8080/42204120/16250164/856914
 https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12758.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/1200px-Cooking_Channel_Canada.png" group-title="Entertainment & LifeStyle",Cooking Channel
-https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12770.m3u8
+http://117tv.icu:8080/live/X5xRz0/944877/107960.m3u8
 
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/tknh0epwjz93rhi/globalfashion.png" group-title="Entertainment & LifeStyle", Global Fashion Chanel
-https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/seh99xsuzg7opg3/ftv.png" group-title="Entertainment & LifeStyle", Fashion TV
-https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 
 
 <=============== Kids Channels =====================>
@@ -802,6 +797,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="Sports", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="Sports", CA: World Fishing Network
+http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8
 
 <====================== News ========================>
 
@@ -1491,8 +1489,67 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 <---------------------- Trial Sports ------------------------>
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXKfF55QIiZwbCZih6LYlSHqF3qr7m9mhig&s" group-title="Sports", SPO TV Malaysia
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Arena
+http://117tv.icu:8080/live/X5xRz0/944877/35238.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sports",Sky Sports Golf FHD
+http://117tv.icu:8080/live/X5xRz0/944877/35240.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png" group-title="Sports",Sky Sports Main Event
+http://117tv.icu:8080/live/X5xRz0/944877/35243.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Cricket FHD
+http://117tv.icu:8080/live/X5xRz0/944877/45940.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports F1 FHD
+http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png" group-title="Sports",Bally Sports Southeast
+http://117tv.icu:8080/live/X5xRz0/944877/81111.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/922/108/png-transparent-nbc-sports-network-nbc-sports-philadelphia-nbcuniversal-embroidery-miscellaneous-television-text-thumbnail.png" group-title="Sports",NBC Sports Network
+http://117tv.icu:8080/live/X5xRz0/944877/46725.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/847/541/png-transparent-detroit-red-wings-wwe-network-logo-bleacher-creatures-copyright-angle-text-rectangle-thumbnail.png" group-title="Sports", US: WWE NETWORK
+http://117tv.icu:8080/live/X5xRz0/944877/11645.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Sports",TSN 2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
+http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
+http://117tv.icu:8080/live/X5xRz0/944877/47446.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57467.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports 1
+http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Sports",Fox Sports 2
+http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 1
+https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20821
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 2
+https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20820
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 3
+https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20819
+
 
 #EXTINF:-1 NBA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="Sports", NBA TV
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nba_norvegicus/playlist.m3u8
