@@ -1180,23 +1180,34 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
 <========================================== USA =================================================>
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TBN_logo.png" group-title="USA",
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TBN_logo.png" group-title="USA",TBN
+TBN
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10279.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="USA",A&E
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="USA",
+
+A&E
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10357.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ABC_Logo_%282007%29.png" group-title="USA",ABC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ABC_Logo_%282007%29.png" group-title="USA",
+
+ABC
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10358.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ABC_Alaska_2022.svg/2560px-ABC_Alaska_2022.svg.png" group-title="USA",ABC Alaska
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ABC_Alaska_2022.svg/2560px-ABC_Alaska_2022.svg.png" group-title="USA",
+
+ABC Alaska
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10359.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-5-logo-png-transparent.png" group-title="USA",AMC
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-5-logo-png-transparent.png" group-title="USA",
+
+AMC
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10361.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="USA",
+
+Animal Planet
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10362.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="USA",AWE Encore
@@ -1262,6 +1273,32 @@ http://tkosportz.live:25461/live/edaniels2023/6066225419/10391.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/796/1019/png-clipart-food-network-chef-television-cooking-channel-food-water-color-television-food-thumbnail.png" group-title="USA",Food Network
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10393.m3u8
 
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/298/882/518/fx-logo-television-show-fox-fox.jpg" group-title="USA",FX
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10402.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Game_Show_Network_logo%2C_2013%E2%80%932015.png/1024px-Game_Show_Network_logo%2C_2013%E2%80%932015.png" group-title="USA",Game Show Network
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10404.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="USA",Grit
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10406.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/518/1011/png-transparent-hallmark-cards-logo-greeting-note-cards-shopping-centre-coroa-miscellaneous-purple-television.png" group-title="USA",Halmark HD
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10407.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hallmark_Family_2024.webp/640px-Hallmark_Family_2024.webp.png" group-title="USA",Halmark Family
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10408.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="USA",HGTV
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10411.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo-2008.png" group-title="USA",History
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10412.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="USA",INSP TV
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10418.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="USA",Lifetime
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10422.m3u8
 
 <========================= China ====================================>
 
