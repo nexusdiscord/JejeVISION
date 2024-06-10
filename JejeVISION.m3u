@@ -1624,81 +1624,49 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 <---------------------- Trial Sports ------------------------>
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Arena
-http://117tv.icu:8080/live/X5xRz0/944877/35238.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sports",Sky Sports Golf FHD
-http://117tv.icu:8080/live/X5xRz0/944877/35240.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png" group-title="Sports",Sky Sports Main Event
-http://117tv.icu:8080/live/X5xRz0/944877/35243.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Cricket FHD
-http://117tv.icu:8080/live/X5xRz0/944877/45940.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Sony Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png" group-title="Sports", Sony Sports 1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports F1 FHD
-http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png" group-title="Sports",Bally Sports Southeast
-http://117tv.icu:8080/live/X5xRz0/944877/81111.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Sony Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png" group-title="Sports", Sony Sports 2
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/922/108/png-transparent-nbc-sports-network-nbc-sports-philadelphia-nbcuniversal-embroidery-miscellaneous-television-text-thumbnail.png" group-title="Sports",NBC Sports Network
-http://117tv.icu:8080/live/X5xRz0/944877/46725.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/847/541/png-transparent-detroit-red-wings-wwe-network-logo-bleacher-creatures-copyright-angle-text-rectangle-thumbnail.png" group-title="Sports", US: WWE NETWORK
-http://117tv.icu:8080/live/X5xRz0/944877/11645.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id=-"Sony Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png" group-title="Sports", Sony Sports 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
-http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Sony Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png" group-title="Sports", Sony Sports 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Sports",TSN 2 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
-http://newlife3.wanicelife.com:8880/live/DAALM2417/XmSRhutE3r/3001.m3u8
-http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
-http://117tv.icu:8080/live/X5xRz0/944877/47446.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5
-http://117tv.icu:8080/live/X5xRz0/944877/57467.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5
-http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports 1
-http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Sports",Fox Sports 2
-http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 1
-https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20821
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 2
-https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20820
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 3
-https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20819
-
-
-#EXTINF:-1 NBA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="Sports", NBA TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nba_norvegicus/playlist.m3u8
-
-#EXTINF:-1 Sony Sports 1" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports1.png" group-title="Sports", Sony Sports 1
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
-
-#EXTINF:-1 Sony Sports 2" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports2.png" group-title="Sports", Sony Sports 2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
-
-#EXTINF:-1 Sony Sports 5" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports5.png" group-title="Sports", Sony Sports 5
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports5_norvegicus/playlist.m3u8
-
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Sony Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png" group-title="Sports", Sony Sports 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Premium Movies", ID: Etv Bioskop
