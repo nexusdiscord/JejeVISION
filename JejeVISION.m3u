@@ -628,6 +628,9 @@ https://melon-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang - [Channel 351].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg", TV5 Monde Style
+http://210.210.155.37/uq2663/h/h121/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment & LifeStyle"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298533
 
