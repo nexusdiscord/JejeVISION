@@ -573,9 +573,6 @@ https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/A/Animal_Planet-logo-2CEBBE2AC3-seeklogo.com.png" group-title="Knowledge & Documentary",Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w247190414_qRFZS.mpd
