@@ -663,7 +663,6 @@ http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Knowledge & Documentary",Smithsonian Channel (B)
 http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
 
