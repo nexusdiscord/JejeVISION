@@ -2199,31 +2199,31 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Action
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportAction.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78700&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Arena
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportArena.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=183704&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport F1
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportF1.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78701&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Football
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportFootball.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78704&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Golf
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportGolf.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78702&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Main Event
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportMainEvent.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78706&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Mix
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportMix.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=34148&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",Sky Sport Premier League 
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportPremierLeague.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78705&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",SkySport Tennis
-https://raw.githubusercontent.com/hendroagung2904/SkyGroup/main/SkySportTennis.m3u8
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=827593&extension=m3u8
 
 
 
