@@ -1844,6 +1844,10 @@ https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/52/Logo_AFB_TV.png/640px-Logo_AFB_TV.png",AFB TV Kupang
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch54.m3u8
+
 <======================= Internet Radio ===============================>
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="Internet Radio",Nagaswara POP
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
