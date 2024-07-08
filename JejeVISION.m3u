@@ -884,7 +884,7 @@ http://210.210.155.37/uq2663/h/h121/index.m3u8
 http://117tv.icu:8080/live/X5xRz0/944877/108136.m3u8
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
-https://github.com/openwindows037/sri-tv/raw/main/tlc.m3u8
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1783
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
 https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12758.m3u8
