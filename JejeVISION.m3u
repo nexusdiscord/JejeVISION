@@ -965,7 +965,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3306
+#https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1737,7 +1738,8 @@ https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
-https://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2009
+#https://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2216,6 +2218,18 @@ https://bit.ly/SkySportPremierLeague
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports",SkySport Tennis
 https://bit.ly/SkySportTennis
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 1
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2056
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 2
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2057
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 3
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2058
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 4
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
 
 
 <==============================>
