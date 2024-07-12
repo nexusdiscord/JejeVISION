@@ -2244,4 +2244,4 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #EXTINF:-1 player-buffer="5" tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Test Channel",ANTV
-https://raw.githubusercontent.com/hendroagung2904/StreamSource/main/ANTV.m3u8
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3523
