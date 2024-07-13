@@ -2161,6 +2161,12 @@ https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="Sports",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
@@ -2234,8 +2240,32 @@ http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports F1 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3501
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Premier UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3502
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Football UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3503
 
-<===== Video On Demand ==========================>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Tennis UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3504
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Main Events UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3505
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Action UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Arena UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3507
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports News UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3508
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Cricket UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Golf UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
