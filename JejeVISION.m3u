@@ -2161,12 +2161,6 @@ https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="Sports",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
@@ -2220,6 +2214,28 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2058
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 4
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/d6c7024d16db400b834bbe14b51c5789/version/0" group-title="Sports" ,ASTRO ARENA 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3495
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/06026bebbc0e42eb8483e2c1a6c96f08/version/1" group-title="Sports" ,ASTRO ARENA 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3496
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/862489a719c64f3bbd894dbd5eb06c6b/version/1" group-title="Sports" ,ASTRO CRICKET
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3497
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2" group-title="Sports" ,beIN SPORTS 1 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1" group-title="Sports" ,beIN SPORTS 2 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1" group-title="Sports" ,beIN SPORTS 3 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
+
+
+
+
 
 <===== Video On Demand ==========================>
 
