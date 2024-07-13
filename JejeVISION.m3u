@@ -2269,3 +2269,15 @@ http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Golf UK
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="Test Channel",Max Stream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
