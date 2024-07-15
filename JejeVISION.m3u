@@ -1105,38 +1105,22 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1812
 
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1813
-
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1814
 
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1815
-
-
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Sports", TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -2221,55 +2205,6 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 4
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
 
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/d6c7024d16db400b834bbe14b51c5789/version/0" group-title="Sports" ,ASTRO ARENA 1
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3495
-
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/06026bebbc0e42eb8483e2c1a6c96f08/version/1" group-title="Sports" ,ASTRO ARENA 2
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3496
-
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/862489a719c64f3bbd894dbd5eb06c6b/version/1" group-title="Sports" ,ASTRO CRICKET
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3497
-
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2" group-title="Sports" ,beIN SPORTS 1 MY
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498
-
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1" group-title="Sports" ,beIN SPORTS 2 MY
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
-
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1" group-title="Sports" ,beIN SPORTS 3 MY
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports F1 UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3501
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Premier UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3502
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Football UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3503
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Tennis UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3504
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Main Events UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3505
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Action UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3506
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Arena UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3507
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports News UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3508
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Cricket UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Golf UK
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
-
 
 #EXTINF:-1,Discovery Channel
 #EXTGRP: TEST Channel
@@ -2294,15 +2229,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsia
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-
-
 #EXTINF:-1,HGTV
 #EXTGRP: TEST Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
 
 #EXTINF:-1,DMAX
 #EXTGRP: TEST Channel
