@@ -766,9 +766,9 @@ https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
