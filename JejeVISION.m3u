@@ -1047,6 +1047,9 @@ https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTINF:-1 tvg-id="MTV 90's - [Channel 149].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="Music",MTV 90's
 https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", MUSIC INDIA
+http://cdn2.pishow.tv/live/135/master.m3u8
+
 
 
 <============================ Sports ========================>
@@ -1784,7 +1787,10 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 https://v6.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1564773869.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="" tvg-logo="https://api.jbtv.jogjabelajar.org/api/v1/user-file/stream?file_url=setting/26d7be07-9c73-464f-b9df-5e9c597501d0/rev-logo-jbtv-2.png",JBTV JOgja
+https://live.jbtv.jogjabelajar.org/720/6f869cef-78b7-44e6-b628-5aabbe945694.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",JPM TV
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w448347974.m3u8
