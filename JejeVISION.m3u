@@ -2491,20 +2491,20 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 <========================= TRIAL Channel ==================================>
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="991" tvg-id="991" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 1 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="992" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png" ,Channel 2 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 3 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 4 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 5 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 6 Paris 2024 Olympics
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
