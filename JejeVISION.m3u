@@ -308,8 +308,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (MAXSTREAM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1376,8 +1374,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
+#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV9.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://e7.pngegg.com/pngimages/281/253/png-clipart-malaysia-tv9-media-prima-tv3-8tv-networking-topics-television-text-thumbnail.png",TV9 Malaysia
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
