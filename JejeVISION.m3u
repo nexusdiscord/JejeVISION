@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2411,3 +2412,163 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 6 Paris 2024 Olympics
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",NetTv
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Animax
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Moonbug
+https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",TVOne
+https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Animal Planet
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Bioskop Indonesia
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",IDTV
+https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Eat & Go
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Mentari TV
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Discovery Asia
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Cartoon Network
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Rajawali TV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",DaaiTV
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Chinese Drama
+https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",KIX
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Dunia Anak
+https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Dunia Lain
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Citra Dangdut
+https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="Trial Channel",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",IMC
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Curiocity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Discovery Channel
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Trial Channel",Fun Planet
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
