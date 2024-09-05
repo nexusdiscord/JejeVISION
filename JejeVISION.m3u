@@ -48,6 +48,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=204&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV (TRANSCORP)
+https://sritv.serv00.net/red/play.mpd?id=204&type=dash
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -61,8 +68,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -84,14 +91,17 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar (DENS TV)
 http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
-http://108.181.132.217:8070/live/12915223/fc28dfb6/162138.ts
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=205&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar (DENS TV)
+https://sritv.serv00.net/red/play.mpd?id=205&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=206&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV (INDIHOME)
+https://sritv.serv00.net/red/play.m3u8?id=206&type=hls
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -101,6 +111,7 @@ http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV (INDIHOME)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZS.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1307,6 +1318,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-Ne
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=8237&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
+https://sritv.serv00.net/red/play.m3u8?id=8237&type=hls
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
