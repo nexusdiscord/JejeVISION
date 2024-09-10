@@ -429,7 +429,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Refe
 #http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="Premium Movies",Celestial Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
