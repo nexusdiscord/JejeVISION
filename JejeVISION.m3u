@@ -715,14 +715,11 @@ https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/949/528/png-transparent-curiositystream-logo-live-stream-icon-logo-circle-curiosity-thumbnail.png" group-title="Knowledge & Documentary",Curiosity Channel
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
 #EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Knowledge & Documentary",Love Nature
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
