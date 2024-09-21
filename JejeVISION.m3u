@@ -279,19 +279,14 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 <====================== HBO Group 2 ===============================>
 
 #EXTINF:-1 tvg-id="HBO.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group 2",HBO 
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
 
 #EXTINF:-1 tvg-id="HBO Hits.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group 2",HBO Hits 
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
 
 #EXTINF:-1 tvg-id="HBO Signature.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group 2",HBO Signature
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
 
 #EXTINF:-1 tvg-id="HBO Family.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group 2",HBO Family
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
 
 #EXTINF:-1 tvg-id="Cinemax.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group 2",Cinemax
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
 
 
 
@@ -445,7 +440,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Premium Movies",Chinese Drama
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILm6gv4RxDSE8931dlvswvh4
 
 #EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -484,7 +478,6 @@ https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="Premium Movies",FLIK
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlYGwyJ_kKRYIS2zyRLauIM
 
 
 <================ Korean Channels ===================>
