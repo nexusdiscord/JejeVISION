@@ -1009,10 +1009,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 xui-id="352" tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sports",Sky Sports Golf
 
-
-
-
-
+#EXTINF:-1,Eurosport HD
+#EXTGRP: Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
 <====================== News ========================>
