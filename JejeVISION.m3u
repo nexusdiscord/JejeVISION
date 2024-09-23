@@ -1784,8 +1784,6 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
-
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1909,7 +1907,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c6856f08326c016f557be28131b9/
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 11
-hhttps://trv-poc-03.threemedia.tv/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
+https://trv-poc-03.threemedia.tv/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1931,26 +1929,6 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729ce8f25d3c1a/
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 13
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 14
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 15
 https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1961,7 +1939,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729d434e393c21/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 16
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 14
 https://trv-poc-03.threemedia.tv/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1972,10 +1950,9 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c685730a4243017317dee5df1572/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 17
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 15
 https://trv-poc-03.threemedia.tv/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1984,11 +1961,9 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c685758bcfff01776bc7624307ab/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 18
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 16
 https://trv-poc-03.threemedia.tv/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
-
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1997,7 +1972,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68588e2da5a01892e3755c046bf/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 19
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 17
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
@@ -2009,9 +1984,8 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 20
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 18
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2021,7 +1995,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016d0640033e6d1f/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 21
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 19
 https://trv-poc-03.threemedia.tv/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 
@@ -2033,7 +2007,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c68571b3914b01720e7ff4376d21/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 22
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 20
 https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
 
 
@@ -2045,7 +2019,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a424301731849249d1577/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 23
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 21
 https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 
@@ -2057,7 +2031,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a4243017321f355172d0c/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 24
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 22
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 
@@ -2069,7 +2043,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6857fe540a1018060ac364140ba/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 25
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 23
 https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 
@@ -2081,7 +2055,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0b6d210096/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 26
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 24
 https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
@@ -2093,7 +2067,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0db0bf0097/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 27
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 25
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 
@@ -2105,7 +2079,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e8eda22394/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 28
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 26
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 
@@ -2117,7 +2091,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e9c5992395/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 29
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 27
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
 
 
@@ -2129,7 +2103,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016d0642d33e6d20/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 30
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 28
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd
 
 
@@ -2141,7 +2115,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856f08326c016f0dbdf70005f5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 31
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 29
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
 
@@ -2153,7 +2127,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d01703417ea3a0901/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 32
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 30
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 
@@ -2165,7 +2139,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341b51bd0904/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 33
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 31
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
@@ -2177,7 +2151,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341bf1000905/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 34
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 32
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 
@@ -2189,7 +2163,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170342015d30907/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 35
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 33
 https://trv-poc-03.threemedia.tv/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 
@@ -2201,7 +2175,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c6856c3db2cc016cd6e647532391/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 34
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 
@@ -2213,7 +2187,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c80f0d63bfc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 37
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 35
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 
@@ -2225,7 +2199,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c921bc43c00/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 38
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 36
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
 
@@ -2237,7 +2211,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cbde4783c06/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 39
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 37
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 
@@ -2249,7 +2223,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cd58bce3c14/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 40
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 38
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 
@@ -2261,7 +2235,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce2a0d83c16/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 41
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 39
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 
@@ -2273,7 +2247,19 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce4a1343c17/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 42
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 40
+https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 41
 https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
 
@@ -2285,8 +2271,14 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017317e334101575/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 43
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 42
 https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
+
+
+
+
+
+
 
 
 
