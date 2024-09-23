@@ -595,6 +595,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Flik" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://dypdvfcjkqkg2.cloudfront.net/large/1350487-3749.png",FLIK
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 
 <================ Korean Channels ===================>
 
@@ -729,7 +731,7 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="Knowledge & Documentary",Lingua Channel
+#EXTINF:-1 tvg-id="Lingua" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="Knowledge & Documentary",Lingua Channel
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1147,7 +1149,7 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9353&type=drm
 https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_1_Australia.png" group-title="Sports",beIN Sports 1 ID
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_1_Australia.png" group-title="Sports",beIN Sports 1 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1155,7 +1157,7 @@ https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Sports",beIN Sports 3 ID
+#EXTINF:-1 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Sports",beIN Sports 3 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
