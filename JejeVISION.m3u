@@ -1792,7 +1792,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 1
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="TransCorp" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1803,7 +1803,7 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6df9359238f/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 2
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TransCorp",Indosiar
 https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 
@@ -1815,7 +1815,7 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6e773b02392/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 3
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TransCorp",RCTI HD
 https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1826,7 +1826,7 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6e825832393/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 4
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="TransCorp",MNC TV
 https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1837,7 +1837,7 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 5
+#EXTINF:-1 group-title="TransCorp" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
 https://trv-poc-03.threemedia.tv/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1848,8 +1848,8 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6856df6711d016e111c808d00a5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 6
-https://trv-poc-03.threemedia.tv/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 6
+#https://trv-poc-03.threemedia.tv/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1859,7 +1859,7 @@ https://trv-poc-03.threemedia.tv/live/master/1/4028c6858afb4c71018b03c17d371528/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 7
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="TransCorp" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 https://trv-poc-03.threemedia.tv/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 
@@ -1871,7 +1871,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c6856c3db2cc016cd6e548c62390/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 8
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="TransCorp" tvg-id="",Dunia Anak
 https://trv-poc-03.threemedia.tv/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 
@@ -1883,8 +1883,8 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 9
-https://trv-poc-03.threemedia.tv/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 9
+#https://trv-poc-03.threemedia.tv/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1894,8 +1894,8 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 10
-https://trv-poc-03.threemedia.tv/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 10
+#https://trv-poc-03.threemedia.tv/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1906,7 +1906,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c6856f08326c016f557be28131b9/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 11
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="TransCorp",TVRI Nasional
 https://trv-poc-03.threemedia.tv/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1917,8 +1917,8 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68570f25e2e01716841059b3e25/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 12
-https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 12
+#https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1928,7 +1928,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729ce8f25d3c1a/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 13
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raybiztech.com/getattachment/0c88e419-9f13-4a80-88ed-da5f7a136a62/wion-news-logo-(1).jpg" group-title="TransCorp",WION
 https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1939,8 +1939,8 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68572841ba301729d434e393c21/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 14
-https://trv-poc-03.threemedia.tv/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 14
+#https://trv-poc-03.threemedia.tv/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1950,7 +1950,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c685730a4243017317dee5df1572/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 15
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="TransCorp" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
 https://trv-poc-03.threemedia.tv/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1961,8 +1961,8 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c685758bcfff01776bc7624307ab/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 16
-https://trv-poc-03.threemedia.tv/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 16
+#https://trv-poc-03.threemedia.tv/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1972,7 +1972,7 @@ https://trv-poc-03.threemedia.tv/live/master/2/4028c68588e2da5a01892e3755c046bf/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 17
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.insertlive.com/mobile/images/logo_insert.png?v=4.5.2" group-title="TransCorp",!nsert
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
@@ -1984,7 +1984,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 18
+#EXTINF:-1 group-title="TransCorp" tvg-id="Channel News Asia - [Channel 330].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1995,8 +1995,8 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6856c3db2cc016d0640033e6d1f/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 19
-https://trv-poc-03.threemedia.tv/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Golf+
+#https://trv-poc-03.threemedia.tv/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2007,8 +2007,8 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c68571b3914b01720e7ff4376d21/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 20
-https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 20
+#https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2019,7 +2019,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a424301731849249d1577/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 21
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574f658b1017506741c665418/f37dcbd1fbf445e3a9900537f1778f63.jpg" group-title="TransCorp",Pijar TV
 https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 
@@ -2031,7 +2031,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c685730a4243017321f355172d0c/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 22
+#EXTINF:-1 group-title="TransCorp" tvg-id="FashionTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
 https://trv-poc-03.threemedia.tv/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 
@@ -2043,7 +2043,7 @@ https://trv-poc-03.threemedia.tv/live/master/3/4028c6857fe540a1018060ac364140ba/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 23
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="TransCorp",TransTV HD
 https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 
@@ -2055,7 +2055,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0b6d210096/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 24
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="TransCorp",Trans7 HD
 https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
@@ -2067,7 +2067,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c685651d7bcc01651f0db0bf0097/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 25
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="TransCorp",GTV
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 
@@ -2079,7 +2079,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e8eda22394/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 26
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="TransCorp",ANTV
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 
@@ -2091,10 +2091,9 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016cd6e9c5992395/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 27
+#EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="TransCorp",TV5 Monde
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2103,9 +2102,19 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856c3db2cc016d0642d33e6d20/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 28
+#EXTINF:-1 group-title="TransCorp" tvg-id="Al Jazeera English - [Channel 331].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 29
+#https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2115,19 +2124,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856f08326c016f0dbdf70005f5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 29
-https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 30
+#EXTINF:-1 tvg-id="Lingua" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="TransCorp",Lingua Channel
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 
@@ -2139,8 +2136,8 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341b51bd0904/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 31
-https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 31
+#https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2151,7 +2148,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170341bf1000905/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 32
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/eatngo_1670395212.png" group-title="TransCorp",Eat & Go
 https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 
@@ -2163,7 +2160,7 @@ https://trv-poc-03.threemedia.tv/live/master/4/4028c6856fd0d66d0170342015d30907/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 33
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TransCorp",SCTV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 
@@ -2175,7 +2172,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c6856c3db2cc016cd6e647532391/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 34
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="TransCorp" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 
@@ -2187,8 +2184,8 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c80f0d63bfc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 35
-https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 35
+#https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2199,7 +2196,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729c921bc43c00/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 36
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg" group-title="TransCorp",DAAI TV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
 
@@ -2211,7 +2208,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cbde4783c06/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 37
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="TransCorp",JAK TV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 
@@ -2223,9 +2220,8 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729cd58bce3c14/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 38
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="TransCorp",Kompas TV HD
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2235,7 +2231,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce2a0d83c16/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 39
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="TransCorp",RTV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 
@@ -2247,7 +2243,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c68572841ba301729ce4a1343c17/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 40
+#EXTINF:-1 group-title="TransCorp" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
 
@@ -2259,7 +2255,7 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a42430173142e26ba7b17/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 41
+#EXTINF:-1 tvg-id="CCTV4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png" group-title="TransCorp",CCTV 4
 https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
 
@@ -2271,8 +2267,8 @@ https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017317e334101575/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Trial",Trial 42
-https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="TransCorp",Trial 42
+#https://trv-poc-03.threemedia.tv/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
 
 
