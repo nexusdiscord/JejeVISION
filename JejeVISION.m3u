@@ -770,10 +770,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
-
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Entertainment & LifeStyle",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
