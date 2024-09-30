@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -906,16 +904,16 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://cempedak-cdn-fly.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" tvg-id="Astro SuperSport HD.my" ,Astro Supersport
+#EXTINF:-1 group-title="Sports" tvg-id="ASTRO SUPERSPORT.my" tvg-url=https://www.bevy.be/bevyfiles/malaysiapremium2.xml tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" tvg-id="Astro SuperSport HD.my" ,Astro Supersport
 http://newlife3.wanicelife.com:8880/D12m2806/32723612/1722
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" tvg-id="Astro SuperSport 2 HD.my" ,Astro Supersport 2
+#EXTINF:-1 group-title="Sports" tvg-id="ASTRO SUPERSPORT 2.my" tvg-url=https://www.bevy.be/bevyfiles/malaysiapremium2.xml tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" tvg-id="Astro SuperSport 2 HD.my" ,Astro Supersport 2
 http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1721
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" tvg-id="Astro SuperSport 3 HD.my" ,Astro Supersport 3
+#EXTINF:-1 group-title="Sports" tvg-id="ASTRO SUPERSPORT 3.my" tvg-url=https://www.bevy.be/bevyfiles/malaysiapremium2.xml tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" tvg-id="Astro SuperSport 3 HD.my" ,Astro Supersport 3
 http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1720
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" tvg-id="Astro SuperSport 4 HD.my" ,Astro Supersport 4
+#EXTINF:-1 group-title="Sports" tvg-id="ASTRO SUPERSPORT 4.my" tvg-url=https://www.bevy.be/bevyfiles/malaysiapremium2.xml tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" tvg-id="Astro SuperSport 4 HD.my" ,Astro Supersport 4
 http://newlife3.wanicelife.com:8880/29us1033n02/4567tfwede/1719
 
 
