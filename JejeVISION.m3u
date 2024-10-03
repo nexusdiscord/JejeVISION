@@ -1495,23 +1495,6 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 <============================================= TRIAL ==================================================>
-
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="Trial",HBO
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
-
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="Trial",HBO Hits
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
-
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="Trial",HBO Family
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="Trial",HBO Signature
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Trial",Cinemax
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
-
-
 <=========================== Indonesia Channel ====================================>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
