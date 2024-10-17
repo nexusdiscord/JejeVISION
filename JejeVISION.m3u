@@ -1583,6 +1583,10 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 <======================= Internet Radio ===============================>
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Iradiojakarta.png"  group-title="Internet Radio",iRadio
+https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="Internet Radio",Nagaswara POP
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
