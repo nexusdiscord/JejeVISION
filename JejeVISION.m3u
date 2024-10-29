@@ -2419,6 +2419,16 @@ https://edge-f.swagit.com/live/louisvilleky/live-1-a/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cd41ef_b907c38c6def4901a408562264767358~mv2.png/v1/fill/w_292,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SPEEDVISION_LOGO_WhiteType_TM.png" tvg-id="" group-title="Others",USA-Speedvision
 https://eb9a3a62.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/ecef2f42-fca1-48e4-b685-e429732d814c/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="" group-title="Others",Portugal-RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_monocromaticoNegativo_vert_RGB.png" tvg-id="" group-title="Others",Portugal-RTP International
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyhemHAcRbMV37QaWRRgl7HwayP1KtmnYvQ&s" tvg-id="" group-title="Others",Portugal-RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b1290000_slpt.m3u8
+
+
 
 
 
