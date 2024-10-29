@@ -2393,4 +2393,29 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
+<====================================== Others ==============================>
+
+#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 1
+https://live.suricloud.com/hls/atv1/1_2/index.m3u8?tkn=3676201257
+
+#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 2
+https://ts.suricloud.com:5443/atvlive/streams/atv2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 3
+https://ts.suricloud.com:5443/atvlive/streams/atv3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Others",Aus-Channel 44 Adelide
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Others",Aus-Channel 33 Melobourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Others",Timor Leste- RTTL
+https://tv.rttlep.tl/live/myStream/chunklist_w1477035388.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Others",USA-Metro TV (Louisville, Kentucky)
+https://edge-f.swagit.com/live/louisvilleky/live-1-a/chunklist.m3u8
+
+
+
 
