@@ -2395,26 +2395,29 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 <====================================== Others ==============================>
 
-#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_ATV-2.png" tvg-id="" group-title="Others",Suriname-ATV 1
 https://live.suricloud.com/hls/atv1/1_2/index.m3u8?tkn=3676201257
 
-#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_ATV-2.png" tvg-id="" group-title="Others",Suriname-ATV 2
 https://ts.suricloud.com:5443/atvlive/streams/atv2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Others",Suriname-ATV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_ATV-2.png" tvg-id="" group-title="Others",Suriname-ATV 3
 https://ts.suricloud.com:5443/atvlive/streams/atv3.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Others",Aus-Channel 44 Adelide
+#EXTINF:-1 tvg-logo="https://www.onlyadelaide.com.au/image/ico-c44.jpg" tvg-id="" group-title="Others",Aus-Channel 44 Adelide
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Others",Aus-Channel 33 Melobourne
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/34/217/png-transparent-channel-33-television-channel-canal-12-tcs-canal-2-television-game-trademark-thumbnail.png" tvg-id="" group-title="Others",Aus-Channel 33 Melobourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Others",Timor Leste- RTTL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RTTL_2017.png/revision/latest/scale-to-width-down/200?cb=20181017144309" tvg-id="" group-title="Others",Timor Leste- RTTL
 https://tv.rttlep.tl/live/myStream/chunklist_w1477035388.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Others",USA-Metro TV (Louisville, Kentucky)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro-tv-gh.png" tvg-id="" group-title="Others",USA-Metro TV (Louisville, Kentucky)
 https://edge-f.swagit.com/live/louisvilleky/live-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cd41ef_b907c38c6def4901a408562264767358~mv2.png/v1/fill/w_292,h_24,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SPEEDVISION_LOGO_WhiteType_TM.png" tvg-id="" group-title="Others",USA-Speedvision
+https://eb9a3a62.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/ecef2f42-fca1-48e4-b685-e429732d814c/4.m3u8
 
 
 
