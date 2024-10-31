@@ -639,6 +639,7 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Knowledge & Documentary",History HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1126,12 +1127,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/881/999/png-clipart-2018-nba-playoffs-nba-tv-television-nba-league-pass-nba-logo-sign-thumbnail.png" group-title="Sports",NBA TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
