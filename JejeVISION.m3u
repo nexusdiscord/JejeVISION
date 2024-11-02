@@ -1831,6 +1831,11 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
+#EXTINF:-1  group-title="Malaysia"  tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/107.png",Astro WARNA
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1706
+
+#EXTINF:-1  group-title="Malaysia"  tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/5/59/Astro_Ria.png",Astro RIA
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1705
 
 
 
