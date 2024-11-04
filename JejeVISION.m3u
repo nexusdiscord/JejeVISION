@@ -1244,6 +1244,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180501/rbe/kisspng-nbc-sports-network-nbcuniversal-television-5ae8dbce3d35d6.2099047815252100622507.jpg",NBC Sports
 http://fl5.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://spectrumsportsnet.com/content/dam/sports/images/logos/lakersNavLogo.png",Spectrum Sportsnet Lakers
+https://stream1.freetv.fun/spectrum-sportsnet-lakers-1.ctv
+
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://seeklogo.com/images/L/los-angeles-dodgers-logo-36C5B29B93-seeklogo.com.png",Spectrum Sportsnet Dodgers
+https://stream1.freetv.fun/spectrum-sportsnet-la-dodgers-1.ctv
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 #EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
