@@ -1579,7 +1579,6 @@ http://extraott.com/live/6945574629/7169628753/83011.ts
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/265/500/png-clipart-rush-logo-rapid-city-rush-full-logo-sports-ice-hockey-thumbnail.png" group-title="Live Event Sports",Rush Sports 
 http://fortv.cc:8080/xGSh0a/969113/99568
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
