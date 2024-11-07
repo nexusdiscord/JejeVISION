@@ -1576,6 +1576,13 @@ http://extraott.com/live/6945574629/7169628753/83011.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/265/500/png-clipart-rush-logo-rapid-city-rush-full-logo-sports-ice-hockey-thumbnail.png" group-title="Live Event Sports",Rush Sports 
+http://fortv.cc:8080/xGSh0a/969113/99568
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 
