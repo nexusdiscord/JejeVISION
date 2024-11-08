@@ -851,7 +851,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/95.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:=1 tvg-id="DiscoveryAsia.sg" tvg-name="" group-title="Knowledge & Documentary" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://i.ibb.co.com/7pjL0G4/discovery-asia.png",DISCOVERY ASIA
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
 https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
