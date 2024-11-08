@@ -1183,7 +1183,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png",Fun Planet
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
