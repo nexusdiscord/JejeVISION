@@ -811,9 +811,9 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Knowledge & Documentary",History HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.ts
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.ts
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
