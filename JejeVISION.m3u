@@ -966,7 +966,7 @@ https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1024px-Mentari_TV.svg.png" group-title="Kids",Mentari TV
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w389190176_b1044100_sleng.m3u8?Mediacorp.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
