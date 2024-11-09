@@ -454,7 +454,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.ts
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Flik.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
