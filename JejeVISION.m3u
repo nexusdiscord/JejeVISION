@@ -1014,26 +1014,20 @@ http://fortv.cc:8080/xGSh0a/969113/20946
 http://fortv.cc:8080/4T4Df8/969875/31636
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Washington (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Sports",NBC Sports Washington
-http://fortv.cc:8080/4T4Df8/969875/20944
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Bay Area (A)" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Bay Area 
-http://fortv.cc:8080/4T4Df8/969875/9900
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Boston (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston 
-http://fortv.cc:8080/4T4Df8/969875/20939
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports California (A)" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="Sports",NBC Sports California 
-http://fortv.cc:8080/4T4Df8/969875/20940
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
+http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Chicago " tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="Sports",NBC Sports Chicago 
-http://fortv.cc:8080/4T4Df8/969875/20941
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Network (FHD) " tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="Sports",NBC Sports Network
-http://fortv.cc:8080/4T4Df8/969875/20926
 
-#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Philly (F)" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="Sports",NBC Sports Philly 
-http://fortv.cc:8080/4T4Df8/969875/20943
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK-Sky Sports Action" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Action
 http://fortv.cc:8080/4T4Df8/969875/53705
@@ -1077,36 +1071,6 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 #EXTINF:-1 tvg-id="701" group-title="Sports" tvg-name="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports 1 HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
-
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" tvg-id="817.astro",Astro Sports Plus
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" Sports, Astro Badminton
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
-
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png", beINSports 1 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
-
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_70X40.png", beINSports 2 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
-
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png", beIN Sports 3 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
-
-#EXTINF:-1  Sports tvg-logo="https://i.ibb.co.com/tX64NXy/PREMIER-SPORT.png", PRemier Sports (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
 
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",TNT 1
@@ -1317,51 +1281,6 @@ http://extraott.com/live/6945574629/7169628753/710940.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
-
-<========================================== LIVE Event Sports ========================================================>
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/265/500/png-clipart-rush-logo-rapid-city-rush-full-logo-sports-ice-hockey-thumbnail.png" group-title="Live Event Sports",Rush Sports 
-http://fortv.cc:8080/xGSh0a/969113/99568
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png"" group-title="Live Event Sports",GXR WORLD 2
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 3
-https://dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 4
-https://d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 5
-https://d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 6
-https://d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index.m3u8?c
-
 
 <====================== News ========================>
 
