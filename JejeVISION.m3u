@@ -773,7 +773,7 @@ https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendr
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="HITS Now" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Entertainment & LifeStyle",Hits Now
-https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-HitsNow.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -949,7 +949,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-StudioUniversal.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="Kids" tvg-id="" ,Mentari TV
-https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MentariTV.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
