@@ -434,7 +434,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414",Chinese Drama
-https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-ChineseDrama.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
