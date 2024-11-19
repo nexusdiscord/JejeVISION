@@ -1648,22 +1648,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/TV3Malaysia.m3u8
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; 335cec8e-5c83-4c93-8f95-2d351ec96ec8; V2246) 
+#EXTVLCOPT:http-best-effort=true
+#EXTVLCOPT:http-DownLoadRate=40960.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tv9-malaysia-logo.png",TV 9 Malaysia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/TV9Malaysia.m3u8
+https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=T4RlryPFrESwNR4DwJNmBHen2IdTOs0i18NW6XKEqvG6mRtXFkv11IhIQEVy%2ByAZcc2bpr929bwFp9dNr%2BE163oPeLtvYOStEaOBCi4MVU3IeN9rafv15KK8Mx2%2BcxQDQ8hLGYcrK28KN05xe9jDnA%3D%3D%3A20231004023624%3AUTC%2C1004320541%2C115.164.207.27%2C20231004023624%2Curn:Huawei:liveTV:iptv182%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&targetdev=1798&it=H4sIAAAAAAAAA0XMsQrCMBCA4bfpGHpJPdIhkyK4BKHqKpfkEgqxwbQWfHupCO7_9y-VPJ8ORjFg0C3uQHNHqHrXY88haukQIGIz89MWoxpPOY9TsiVs7Dbs79CKVkgJArrmsu2OmZKR39K-Ho7rnw1c19GzCXMUK82CUqqcaBnLJM6Z3teaf8kH4ovTopkAAAA HTTP/1.1
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1690,10 +1681,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; 335cec8e-5c83-4c93-8f95-2d351ec96ec8; V2246) 
+#EXTVLCOPT:http-best-effort=true
+#EXTVLCOPT:http-DownLoadRate=40960.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/8TVMalaysia.m3u8
+https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ISjyAgq%2Blu2gselHicZT7vP1ZOetmi6OacizOl62HBjf5%2FAFj1swDTc1x%2BSww9v%2BkspKWPAI1%2FcZIol9jdelgPCXy7katpA78mBhfj3E%2BCnQLHSILVqdHo0YHL%2FqjUXHlRUU0IgnFl7hSHjttapGxQ%3D%3D%3A20230713161655%3AUTC%2C1004320541%2C14.1.206.83%2C20230713161655%2Curn:Huawei:liveTV:iptv184%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1800&mount=1000002&targetdev=1800&it=H4sIAAAAAAAAA0XMvQrCMBRA4bfJGPIjvc2QSRFcglB1lZv0GgJpg0kt-PZSEdzPd5aKgU4Ha4L3utPQBzA7lNhjAG2QBGigTgjW6OmK1SxgzmmOrowbuw37uxRccKUk18Au2-6YMVr1Ld1r8lT_bKC6pkB2bA--YuMYY6WISyozP2d8X2v-JR_epfmKmQAAAA
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
