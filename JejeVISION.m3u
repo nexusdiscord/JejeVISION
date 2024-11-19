@@ -1164,17 +1164,16 @@ http://fortv.cc:8080/4T4Df8/969875/31636
 
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague2.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroGrandStand.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
-
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroFootBall.m3u8
 
 
 
