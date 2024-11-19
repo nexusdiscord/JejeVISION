@@ -52,7 +52,7 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162138
 https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-SCTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels", MOJI TV
-https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MojiTV.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8?c
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels", MOJI TV (LIve)
 http://xtv.ooo:8080/30912088/60996054/350997
@@ -692,7 +692,7 @@ https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37394.ts
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
-https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-AnimalPlanet.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -949,8 +949,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 https://inditv.openwindow042.workers.dev/https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-StudioUniversal.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="Kids" tvg-id="" ,Mentari TV
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
