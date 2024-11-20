@@ -570,7 +570,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge",Discovery Asia
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
@@ -684,9 +684,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/1024px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png",Davinci
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Davinci.m3u8
-
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -772,10 +769,18 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/CartoonNetwork.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Horee.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/1024px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png",Davinci Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
 
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png",Fun Planet
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/FunPlanet.m3u8
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cartoonito.m3u8
@@ -1052,12 +1057,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sports_Max_Logo.png" group-title="Sports",Sportmax Premier
 http://fortv.cc:8080/4T4Df8/969875/99569
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/881/999/png-clipart-2018-nba-playoffs-nba-tv-television-nba-league-pass-nba-logo-sign-thumbnail.png" group-title="Sports",NBA TV
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
