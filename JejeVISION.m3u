@@ -362,8 +362,9 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414",Chinese Drama
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest?cb=20190921115414",Chinese Drama
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
