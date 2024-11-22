@@ -2548,6 +2548,12 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168f3fadfc730ba3dfc932f7c430e27d:5be66a6f88efee3d6e30f72a9c58e310
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Test Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
+https://linears-playback.astro.com.my/vsg/41RNtsLCy48sV3l6M3gU5PG4xcihshtinXPoZV3_6nQVU=jmWW/dash-wv/jitp-linearwm/2701/default_primary.mpd
+
 
 
 
