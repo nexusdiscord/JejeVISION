@@ -1670,6 +1670,13 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
 
 
 <============================== Brunei ======================================>
