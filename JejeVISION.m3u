@@ -904,6 +904,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MusikIndonesia.m3u8
+
+
 <============================ Sports ========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1029,7 +1031,11 @@ https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/E/eurosport-2-logo-B5F4FEBC14-seeklogo.com.png" group-title="Sports",EUROSPORTS 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
 
+
+
 <==================================================== Area Sport Tambahan ======================================>
+
+
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="Sports",MY ▎WWE NETWORK
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656966
 
