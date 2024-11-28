@@ -1443,6 +1443,16 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="Mediacorp Singapore",Channel News Asia
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment China
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
+
 
 
 <======================== Malaysia ==========================>
