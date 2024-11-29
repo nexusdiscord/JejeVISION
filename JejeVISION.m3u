@@ -507,6 +507,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20211216005733/en/1184187/23/Curiosity_Combo_Stack_Color_Pos.jpg" group-title="Knowledge & Documentary",Curiosity Channel
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-CuriosityChannel.m3u8
+
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
