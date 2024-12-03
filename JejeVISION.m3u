@@ -2320,3 +2320,106 @@ https://ss02.tubzde.cc/data/6/672bfb5da9e62/hls720/672bfb5da9e62720.m3u8|referer
 
 
 <====================================== Trial ==========================================>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="Trial",INDOSIAR 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://luck.openwindows038.workers.dev/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV 1" tvg-logo="https://i.imgur.com/Z60erAq.png" group-title="Trial",SCTV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://luck.openwindows038.workers.dev/play.mpd?id=204&type=dash
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/O0UelaU.png" group-title="Trial",Premier League TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9353&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="Trial",PRO LIGA 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17637&type=drm  
+https://luck.openwindows038.workers.dev/play.mpd?id=17637&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="Trial",Bein Sports ID1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6299&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=6299&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="Trial",Bein Sports ID2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17875&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="Trial",Bein Sports ID3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6317&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=6317&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="Trial",EPL - 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="Trial",EPL - 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="Trial",LIGA 1 BRI-1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=205&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="Trial",LIGA 1 BRI-2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17623&type=drm  
+https://luck.openwindows038.workers.dev/play.mpd?id=17623&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="Trial",PRO LIGA 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17852&type=hls
+https://luck.openwindows038.workers.dev/play.mpd?id=17852&type=hls
+
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="Trial",PRO LIGA 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17637&type=drm  
+https://luck.openwindows038.workers.dev/play.mpd?id=17637&type=dash
+
+
+
+
+
+
