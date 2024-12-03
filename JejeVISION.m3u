@@ -176,19 +176,19 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 <===================================== HBO FMX =================================>
 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-Transcorp",HBO (FMX)
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-FMX",HBO
 http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8?token=QhBYV0dYRg4TDgYAWlMGCwYEBVYAXwpUAQwAAgIGAAMIBwkOAlIGUVAaSBAQEEJXVQhvWgIbCVcIBBwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFhUCwoSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsAAwQGEkgWUlcRXBcWSRAOR3l3RBURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYBE00UDANBbVNZWl4BV0VRC1wQRgoQBEccEQtWXQxNW0JuEV8FQAMQAQYBAVwWTA==
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO-Transcorp",HBO Hits (FMX)
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO-FMX",HBO Hits
 http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8?token=QhBYV0dYRg4TC1YBAlBUVwZdUgpUCgAEWwxSB1NXAlpdUVZQUAhWBlAaSBAQEEJXVQhvWgIbCVAABRwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFNRAQQEFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAQECAUYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgcEBVEDE0U=
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-Transcorp",HBO Family (FMX) 
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-FMX",HBO Family 
 http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8?token=QhBYV0dYRg4TWVYHVlEEBARcAVZfXQRWDlBRB1gBWAABBlYCBVQHBAgaSBAQEEJXVQhvWgIbCVAABhwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFNWCQUHFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgQCAkYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgcEB1IHE0U=
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-Transcorp",HBO Signature (FMX)
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-FMX",HBO Signature
 http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8?token=QhBYV0dYRg4TWl1UVAIIAQ0BAlBSW1JRXVcBAFRTU1BaU1JVBFZSBAcaSBAQEEJXVQhvWgIbCV0OBxwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFJTDwQDFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgQBA0YYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgcFB1UFE0U=
 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-Transcorp",Cinemax (FMX)
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
 http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8?token=QhBYV0dYRg4TD1YFVVJSBQxQAVICCwYDXVcBVwcPVltbVgEGVwUFVQQaSBAQEEJXVQhvWgIbCVcIAQYdQ0MSB0ttWVIWCkYFAQxQBlBGHBBADF1WRAMDSRtEWVVDDENRCAoAABYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKXRNVX0kbVllFE1cVBxsIEgQGBFAWHRoHXRYKREBNRwoRL30RSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQFAVAGBxoZ
 <=============================================== HBO Transcorp =============================================>
 
