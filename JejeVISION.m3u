@@ -718,6 +718,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 #EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="Entertainment & LifeStyle",Hanacaraka TV
 https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Entertainment & LifeStyle",Jowo Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
