@@ -499,7 +499,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20211216005733/en/1184187/23/Curiosity_Combo_Stack_Color_Pos.jpg" group-title="Knowledge & Documentary",Curiosity Channel
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Curiosity.m3u8
+https://cdngb196.indihometv.com/joss/194/curiosity/chunklist_w1339507065_b2544100_sleng.m3u8?enc=&uid=&exp=
 
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -517,7 +517,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorc
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Love Nature
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-LoveNature.m3u8
+https://cdngb196.indihometv.com/joss/194/lovenature/chunklist_w1059867068_b2544100_sleng.m3u8?enc=&uid=&exp=
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -571,7 +571,7 @@ https://cdngb196.indihometv.com/joss/130/studiouniversal/chunklist_w1519534483_b
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/BBCLife.png" group-title="Entertainment & LifeStyle",BBC Lifestyle
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/BBC-Lifestyle.m3u8
+#https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/BBC-Lifestyle.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -855,7 +855,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MusikIndonesia.m3u8
+https://cdngb196.indihometv.com/joss/134/musikindo/chunklist_w196590844_b444100_sleng.m3u8?enc=&uid=&exp=exp=
 
 
 <============================ Sports ========================>
@@ -997,7 +997,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-NBATV.m3u8
+https://cdngb196.indihometv.com/joss/133/nba/chunklist_w1350933997_b444100_sleng.m3u8?enc=&uid=&exp=exp=
 
 
 
