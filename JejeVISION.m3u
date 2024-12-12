@@ -1602,7 +1602,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.m
 #EXTINF:-1 tvg-logo="http://raziva.biz.id/logo/anhui.png" tvg-id="AnhuiTV.id" tvg-name="ID: Anhui TV" group-title="China",Anhui TV
 https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
+#EXTINF:-1 group-title="China" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
+#EXTINF:-1 group-title="China" aktv-server-group="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now爆谷台	
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01ger3p0x0anaj5n5rz679r2fk.png" group-title="China",VIU TV 99
