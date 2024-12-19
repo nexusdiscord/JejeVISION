@@ -1450,19 +1450,19 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
 https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
 
-#EXTINF:-1 group-title="Trial Channel" tvg-name="" tvg-country="ID" tvg-logo="",ID | GMS HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="Christian Channels" tvg-name="" tvg-country="ID" tvg-logo="https://gms.church/images/gms/short-white.svg",GMS HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
 https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
 
-#EXTINF:-1 group-title="Trial Channel" tvg-name="" tvg-country="ID" tvg-logo="",ID | Kairos ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png",Kairos 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
 https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 
-#EXTINF:-1 group-title="Trial Channel" tvg-name="" tvg-country="ID" tvg-logo="",ID | TBN Asia ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",TBN Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
