@@ -1039,6 +1039,30 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/11/logo-white-and-green-large.png" group-title="Sports",Horizon Sports
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-HorizonSport.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="Sports",Astro Premier League
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="Sports",Astro Premier League 2
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="Sports",Astro Grandstand
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="Sports",Astro Football
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="Sports",TSN 1
+http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54982
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918" group-title="Sports",TSN 2
+http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54983
+
+#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn3-190.png" group-title="Sports",TSN 3
+http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54984
+
+#EXTINF:-1  tvg-logo="https://toppng.com/uploads/thumbnail/wwe-logo-emblem-png-11641660002tk4q0bp2rt.png" group-title="Sports",WWE Network
+http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/52245
+
 #EXTINF:-1 group-title="Sports" ,tvg-id="nhlnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",NHL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
