@@ -1096,10 +1096,10 @@ https://cdn13jtedge.indihometv.com/dass/133/nba/manifest_wuseetv.mpd?
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-HorizonSport.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="Sports",Astro Premier League
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
+http://15.235.144.67:35461/654321/123456/11243
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="Sports",Astro Premier League 2
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
+http://15.235.144.67:35461/654321/123456/971
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="Sports",Astro Grandstand
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
@@ -1959,10 +1959,11 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 <=======================Local Channels===============>
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTINF:-1 group-title="Local Channels" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-BaliTV.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Local Channels",JAK TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
