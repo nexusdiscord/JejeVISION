@@ -945,17 +945,23 @@ http://15.235.144.67:35461/654321/123456/971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="Sports",Astro Grandstand
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="Sports",Astro Football
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="Sports",TSN 1
-http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54982
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1" group-title="Sports",TSN 1
+http://cord-cutter.net:8080/live/JoanP@112/443@112/57292.ts
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918" group-title="Sports",TSN 2
-http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54983
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="Sports",TSN 2
+http://cord-cutter.net:8080/live/JoanP@112/443@112/47442.ts
 
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn3-190.png" group-title="Sports",TSN 3
-http://vp-txpro.com:80/hermilo01/CyJSqZMCSrbV/54984
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="Sports",TSN 3
+http://cord-cutter.net:8080/live/JoanP@112/443@112/10389.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="Sports",TSN 4
+http://cord-cutter.net:8080/live/JoanP@112/443@112/16130.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="Sports",TSN 5
+http://cord-cutter.net:8080/live/JoanP@112/443@112/16131.ts
+
+
 
 #EXTINF:-1 group-title="Sports" ,tvg-id="nhlnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",NHL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
