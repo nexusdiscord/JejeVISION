@@ -983,6 +983,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoPRYzhl_Vddoe7j-JCmnDapsg1TvN6FApQ&usqp=CAU" group-title="Sports",Real Madrid TV English
 https://rmtv-canela.amagi.tv/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="Sports", NBA TV USA
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="Sports", NBA Philippines Full HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
