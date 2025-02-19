@@ -267,6 +267,23 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 <======================== Premium Movies ==========================>
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Premium Movies",&flix  
+http://103.115.126.26:8000/play/a07i/index.m3u8
+https://starshare.live:443/live/Winston123/Winston123/253.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="Premium Movies",&privé  
+http://103.115.126.26:8000/play/a056/index.m3u8
+https://starshare.live:443/live/Winston123/Winston123/98840.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="Premium Movies",Star Movies Select
+http://103.115.126.26:8000/play/a080/index.m3u8
+https://starshare.live:443/live/Winston123/Winston123/98843.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Premium Movies",Sony Pix   
+http://103.115.126.26:8000/play/a05q/index.m3u8
+https://starshare.live:443/live/Winston123/Winston123/98846.ts
+
+
 #EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
