@@ -946,19 +946,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png" group-title="Sports",Astro Premier League 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png" group-title="Sports",Astro Premier League 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="Sports",Astro Grandstand
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png" group-title="Sports",Astro Football
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18620
-
-
-
-
 <====================== News ========================>
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
