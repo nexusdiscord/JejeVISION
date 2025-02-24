@@ -2156,6 +2156,114 @@ https://streaming.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 #EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673557-.png", TV5 MONDE ASIE FHD
 https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="SEA Today" tvg-name="SEA Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="Trial Channel", SEA Today
+https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-chno="39" tvg-id="Bali TV" tvg-name="Bali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png",Bali TV
+https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/250px-Sin_Po_TV.svg.png" group-title="Trial Channel" ,SinPo TV
+https://etv-cdn.kdb.co.id/ETV/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="UChannel" tvg-name="UChannel" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="Trial Channel",U Channel (Kristen)
+https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="IndiKids" tvg-name="IndiKids" group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="MTV LIVE - [Channel 148].id" tvg-name="MTV LIVE - [Channel 148].id" group-title="Trial Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" tvg-chno="162",MTV Live Indihome
+https://streaming.indihometv.com/atm/DASH//MTV_LIVE/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="Prambors" tvg-name="Prambors" group-title="Trial Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLENE1qwe-RvEHmH_m6e9fg8ZkoNGHOPyoYA&s" tvg-chno="162",Prambors
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="Phoenix Chinese Channel HD" tvg-name="Phoenix Chinese Channel HD" group-title="Trial Channel" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" tvg-chno="361",Phoenix Chinese Channel
+https://streaming.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="Phoenix InfoNews.sg" tvg-name="Phoenix InfoNews.sg" group-title="Trial Channel" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" tvg-chno="361",Phoenix InfoNews Channel
+https://streaming.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1, tvg-id="TVBS News.sg" tvg-name="TVBS News.sg"  group-title="Trial Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" ,TVBS News
+https://streaming.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="Sindo News TV HD - [Channel 434].id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_84.png" group-title="Trial Channel",Sindonews TV
+https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BUCKFiU-q1gxvjSGq7GYOwTSihLjhifhryzRtGAZyFUoz_QB0CSgJai9vBfILvcfAfNnyy_BpTKY5cx9Z_ie1-urA_kAm9uQyFiRaLL7xhJkoJWMZCyfTXh1HBt2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png",AXN
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623300983-.png", NUSANTARA TV FHD (Indi)
+https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808673-.png", RTV FHD (Indi)
+https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INEWS HD (Indi)
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg", TVRI (Indi)
+https://streaming.indihometv.com/atm/DASH/tvri/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png", SINDO NEWS SD (Indi)
+https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", METRO TV FHD (Indi)
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png", BTV FHD (Indi)
+https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JdvRSn/AFN.jpg" group-title="Trial Channel", ASIAN FOOD NETWORK
+https://streaming.indihometv.com/atm/DASH/afc/manifest.mpd
+
+
+
+
+
+
 
 
 
