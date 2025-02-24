@@ -2032,7 +2032,6 @@ https://ss02.tubzde.cc/data/6/672bfb5da9e62/hls720/672bfb5da9e62720.m3u8|referer
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="Trial Channel", Thrill
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Trial Channel",SCTV (INDI)
@@ -2053,12 +2052,10 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="Trial Channel",Transtv (INDI)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Trial Channel",Indosiar HD
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -2070,13 +2067,10 @@ https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png" group-title="Trial Channel",tvOne HD
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Trial Channel",Warner TV (INDI)
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-
-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -2088,19 +2082,15 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="Trial Channel",ZEE BIOSKOP
 https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
-
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="Trial Channel",ATV
 https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg",ANTV
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -2113,12 +2103,10 @@ https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #EXTINF:-1 group-title="Trial Channel" tvg-id="jawapostv.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png",Jawa Pos TV 
 https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/JZscN4x.png" group-title="Trial Channel", KOMPAS TV 2
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -2166,7 +2154,6 @@ https://streaming.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="Trial Channel" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png", CHANNEL NEWS ASIA FHD
 https://streaming.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
