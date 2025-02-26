@@ -2267,6 +2267,290 @@ https://streaming.indihometv.com/atm/DASH/afc/manifest.mpd
 
 
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="Trial Channel", AFN HD
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",INDIKIDS[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EURONEWS[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_paramount_ver1.png",PARAMOUNT NETWORK[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="Trial Channel" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Trial Channel" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+#EXTINF:-1 group-title="Trial Channel"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mentari TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="Trial Channel", Mentari TV 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRFZS.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Trial Channel", MUSIK INDONESIA (Indikos)
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+#EXTINF:-1 group-title="Trial Channel" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain 
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="Trial Channel" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",Seru Channel 
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="Trial Channel" tvg-id="flik.id" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://seeklogo.com/images/S/studio-universal-logo-9D1649FDA2-seeklogo.com.png" group-title="Trial Channel" tvg-id="" , Studio Universal
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
+
+
 
 
 
