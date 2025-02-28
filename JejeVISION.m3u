@@ -387,7 +387,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/977/49977-SNAPSHOT-l.png" group-title="Premium Movies",Cinemachi Max HD
+#EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="Premium Movies",SUPERRIX
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
