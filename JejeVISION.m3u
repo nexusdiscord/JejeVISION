@@ -2125,21 +2125,21 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
  
- #EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="Sports",Champions TV 5
- #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
- #KODIPROP:inputstreamaddon=inputstream.adaptive
- #KODIPROP:inputstream.adaptive.manifest_type=dash
- #KODIPROP:inputstream.adaptive.license_type=clearkey
- #KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
- https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="Sports",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
  
- #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="Sports",Champions TV 6
- #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
- #KODIPROP:inputstreamaddon=inputstream.adaptive
- #KODIPROP:inputstream.adaptive.manifest_type=dash
- #KODIPROP:inputstream.adaptive.license_type=clearkey
- #KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
- https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="Sports",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
 
