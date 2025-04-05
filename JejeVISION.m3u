@@ -1702,6 +1702,12 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 <=======================Local Channels===============>
 
+
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="" tvg-logo="https://png.pngtree.com/png-vector/20220507/ourmid/pngtree-round-country-flag-timor-leste-png-image_4565419.png",Bali TV
+http://203.77.246.14:8001/udp/239.1.3.66:5000
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
