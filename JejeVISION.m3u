@@ -131,7 +131,7 @@ http://203.77.246.14:8001/udp/239.1.3.220:5000
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV HD
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",NMDTV
 #https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
