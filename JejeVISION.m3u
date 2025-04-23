@@ -64,7 +64,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mp
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplustv.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+##https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplustv.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
