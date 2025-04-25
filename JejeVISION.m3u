@@ -307,6 +307,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbYXO.jpg" group-title="Premium Movies" ,Studio Universal
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
