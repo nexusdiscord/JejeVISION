@@ -217,24 +217,26 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO SD",HBO
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8?token=QhBYV0dYRg4TAAcCVFMAAQYAAAVXCFVUCVZTAwVUAwMNVgMFAFNdAFMaSBAQEEJXVQhvWgIbCVcIBBwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFNWDAQGFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgUFBkYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgQDAVUCE0U=
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO SD",HBO Hits
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8?token=QhBYV0dYRg4TDgJRAV0HAQdXUwJeXwVQDwQJAVQCUQFaAwRSDFVWBAEaSBAQEEJXVQhvWgIbCVAABRwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFBWDgoDFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgQAAEYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgQDAVAHE0U=
 
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO SD",HBO Family 
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8?token=QhBYV0dYRg4TDlxTVwAICwJWCAdXDlVWWgZVBQMOV1cPAgIDVgUCUgIaSBAQEEJXVQhvWgIbCVcPAQkJTRQUEVxAb19QEl4WAAhQBldXEh4WEVleAxsJVRUWQFgFFFtAAAUFDxYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKXRNVX0kbVllFE1cVBxsIEgcEA1YWHRoHXRYKREBNRwoRL30RSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQGCVICAxoZ
 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO SD",HBO Signature
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8?token=QhBYV0dYRg4TWwFQBgAIU1FWB1VVAQQGDw1RU1JVU1NfAQMCVVQCVgQaSBAQEEJXVQhvWgIbCVcPAQkGTRQUEVxAb19QEl4WAAhQBldXEh4WEVleAxsJVRUWQFgFFFtACwYFAQYSSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCQhMXwkVFlJYFUQAFlwQChQNBFAWHRoHXRYKREBNRwoRL30RSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQGCVICCRoZ
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO SD",Cinemax
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax_2.m3u8
+http://mantul.biz.id:8888/auth/b3FQ748Y807YmNDPXIqINFNLoERMhFZY4OdBkNu9tqV7Ht0p2oq76bLTrZNPTw4CB7mwpBLqrRDM-FGbbSVsVaPYvvWjNLUC5YE3NKej3xS4pC0eG_jmTEdcUQYIRTpRNWRIEvFsqnZVvA-nxG9n5SzEbmHyZnTSFnksldcxQm46MUZMwwXaEtAQwMbiUa0djVqWHG51k4var0SkEwwvW8K3JlGb_yJkQfZg51xH7oPHwvoTkaGA448emNSj1-63oV6OqkH2ee2dDbU2uDeIAdDiLp_MmD-W8m0lm-E1WLGBOCQ4ishqvIY16Sml2PLFXqQGTmrL9wv2krkL81U_xKQhoK7xnvyUYI4Zt1HlCisVkpAu6pxVjZmvGYfhjtjmdSddIOaXtiI_frYVYeq7ON5pAX2mIMZhsUwXloFLiM2zUiRAyDKXNNtZzMiUL6itTY7iGLj40JaG3nZ61IZbged_p7B1xcAU-RsQuW458B4Q3jreWWyIlSoS9x7hjq8c71uVcPDyTyxagMs-k_7wuFU4Qbv1CuSdHyIwi95ijmuQy3UiX8sfwQtyw209YtriZhJjuLUnvTGI54IHZcbk4FgiEiAHqAFMCxloEcdasKeizTqeAZOeHQMeUg5yfMNg
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8?token=QhBYV0dYRg4TXlNWBVUHVgVRCQsAAARWXw1UVVlVUwRYB1NUUFNcUFMaSBAQEEJXVQhvWgIbCVcIAQYdQ0MSB0ttWVIWCkYFAQxQBlBGHBBADF1WRAMDSRtEWVVDDENTDQYBDhYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKXRNVX0kbVllFE1cVBxsIEgQHAlwWHRoHXRYKREBNRwoRL30RSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQGCFQBBBoZ
+
+
 
 
 
