@@ -698,6 +698,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlu
 #EXTINF:-1 tvg-id="travelxp.uk" tvg-name="UK| TRAVELXP SD" tvg-logo="https://lo1.in/uk/trvlx.png" group-title="Entertainment & LifeStyle",Travel XP
 http://7650667.lbj08.xyz/live/ZUL96376/UG4VTW4E/191027.m3u8?token=Q3pWaHBlQ0FRcmhmSzl0
 
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US| COOKING CHANNEL HD" tvg-logo="https://lo1.in/usa/cook.png" group-title="Entertainment & LifeStyle",Cooking Channel HD
+http://7650667.lbt03.xyz/live/ZUL96376/UG4VTW4E/176683.m3u8?token=OVV5WWJlZmhxWUJSOGVB
+
 
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entertainment & LifeStyle",Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
