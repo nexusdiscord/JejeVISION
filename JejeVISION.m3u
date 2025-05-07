@@ -1375,26 +1375,26 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="Malaysia", ASTRO BOO
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200333.m3u8
+http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/400200333.m3u8?token=V2pYbmRHeXFsRlpFVG83
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="Malaysia", ASTRO Rania
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191866.m3u8
+http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191866.m3u8?token=dGJDOGVTdDNRWkUxc0tN
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="Malaysia", ASTRO AURA
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191858.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13073.m3u8
+http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191858.m3u8?token=aVQ3R0c2aHBDbm4xMzJ5
+http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13073.m3u8?token=bVNWRGMwUENHdEFsaGw0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13128.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400251885.m3u8
+http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13128.m3u8?token=SVpUV013aG1Ma1hCV1Mw
+http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/400251885.m3u8?token=bnlVc205R2ViZlRIWjVG
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191948.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29655.m3u8
+http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/191948.m3u8?token=TG9QNUU4WGUwdW1MazU5
+http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/29655.m3u8?token=OUx5M3g5c0R0MkxhWHNr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="Malaysia", IQIYI
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191950.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13092.m3u8
+http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191950.m3u8?token=NkptdG93R25Pc0J2ZE1x
+http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13092.m3u8?token=MVk3NDF4d2lScXRoMWpp
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
