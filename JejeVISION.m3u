@@ -1384,6 +1384,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="Malaysia", IQIYI
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
 
