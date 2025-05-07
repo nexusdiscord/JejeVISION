@@ -1392,15 +1392,19 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191866.m3u8
 
 #EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="Malaysia", ASTRO AURA
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191858.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13073.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13128.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400251885.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191948.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29655.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="Malaysia", IQIYI
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191950.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13092.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
