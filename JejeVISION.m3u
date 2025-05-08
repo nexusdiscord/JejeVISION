@@ -336,14 +336,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 
-#EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="Premium Movies", PARAMOUNT NETWORK
-http://7650667.lbss19.xyz/live/ZUL96376/UG4VTW4E/189892.m3u8?token=bjNGY0xGdmlzVlBFaHBU
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://brandlogos.net/wp-content/uploads/2024/07/hallmark_channel-logo_brandlogos.net_tj5fv-300x127.png" group-title="Premium Movies" ,HALMARK
-http://7650667.lbt03.xyz/live/ZUL96376/UG4VTW4E/176712.m3u8?token=SDNCdFhOdHZqcEcxbnhX
-
-
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -693,13 +685,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-
-
-#EXTINF:-1 tvg-id="travelxp.uk" tvg-name="UK| TRAVELXP SD" tvg-logo="https://lo1.in/uk/trvlx.png" group-title="Entertainment & LifeStyle",Travel XP
-http://7650667.lbj08.xyz/live/ZUL96376/UG4VTW4E/191027.m3u8?token=Q3pWaHBlQ0FRcmhmSzl0
-
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US| COOKING CHANNEL HD" tvg-logo="https://lo1.in/usa/cook.png" group-title="Entertainment & LifeStyle",Cooking Channel HD
-http://7650667.lbt03.xyz/live/ZUL96376/UG4VTW4E/176683.m3u8?token=OVV5WWJlZmhxWUJSOGVB
 
 
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entertainment & LifeStyle",Food Network
@@ -1068,14 +1053,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="Sports",Astro Football
-http://7650667.lbj07.xyz/live/ZUL96376/UG4VTW4E/401600421.m3u8?token=bzM1U3VyZEtHUm9PU0lJ
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Badminton_%28Oct_2024%29.png/revision/latest?cb=20241121183615" group-title="Sports",Astro Batminton
-http://7650667.lbss19.xyz/live/ZUL96376/UG4VTW4E/153952.m3u8?token=Y2JZMDNiTDdIYjFEaXFo
-
-
-
 <====================== News ========================>
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
@@ -1382,28 +1359,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="Malaysia", ASTRO BOO
-http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/400200333.m3u8?token=V2pYbmRHeXFsRlpFVG83
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="Malaysia", ASTRO Rania
-http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191866.m3u8?token=dGJDOGVTdDNRWkUxc0tN
-
-#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="Malaysia", ASTRO AURA
-http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191858.m3u8?token=aVQ3R0c2aHBDbm4xMzJ5
-http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13073.m3u8?token=bVNWRGMwUENHdEFsaGw0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
-http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13128.m3u8?token=SVpUV013aG1Ma1hCV1Mw
-http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/400251885.m3u8?token=bnlVc205R2ViZlRIWjVG
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
-http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/191948.m3u8?token=TG9QNUU4WGUwdW1MazU5
-http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/29655.m3u8?token=OUx5M3g5c0R0MkxhWHNr
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="Malaysia", IQIYI
-http://7650667.lbss12.xyz/live/ZUL96376/UG4VTW4E/191950.m3u8?token=NkptdG93R25Pc0J2ZE1x
-http://7650667.lbss13.xyz/live/ZUL96376/UG4VTW4E/13092.m3u8?token=MVk3NDF4d2lScXRoMWpp
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
