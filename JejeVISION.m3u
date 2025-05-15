@@ -1013,6 +1013,22 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
+#EXTINF:-1 group-title="Sports" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://cord-cutter.net:8080/live/95549031/69361122/10477.ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="tsn1.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="tsn2.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="tsn3.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="tsn4.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="tsn5.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+
+
+
 
 <====================== News ========================>
 
