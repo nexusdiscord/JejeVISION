@@ -551,6 +551,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/46722.ts
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 http://cord-cutter.net:8080/live/95549031/69361122/11664.ts
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="destinationamerica.us" tvg-logo="https://docdog.top/Logotv/countries//destinationamerica.png",Destination America
+http://fortv.cc:8080/live/q8KuDU/354945/14222.ts
+
 #EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
