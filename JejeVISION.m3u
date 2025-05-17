@@ -1098,9 +1098,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm&token=g9tZfKv8HA
 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=115&type=drm&token=g9tZfKv8HA
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
