@@ -930,6 +930,9 @@ https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 ##XTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 
 ##https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
