@@ -128,10 +128,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
-#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img2.beritasatu.com/cache/beritasatu/910x580-w/13092012142252.jpg",Berita Satu
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -657,6 +653,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
@@ -731,13 +733,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
-
 <=================================================== MUSIC ==========================================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -756,29 +751,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2227f4b4252d40d5ae642511d71ef818:b90f5564e2bb37227b4636b5a8643ce2
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY JAZZ
-https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayDjazzHD/mpd/StingrayDjazzHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf305592e53d42a1b7dc876af9914a4e:335c297e482fef1cc2dfcd73b93b3672
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY NOW
-https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNowHD/mpd/StingrayNowHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e038b63a6d7e423797aa0f8991984d98:cb3060662f6c3997a8d3404419cdf048
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY FESTIVAL
-https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayFestivalHD/mpd/StingrayFestivalHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=85459a4820bd4da3b58766b2196e2d2e:898bd3256cc9652c84a9a575caf81cb5
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY NATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNaturescapeHD/mpd/StingrayNaturescapeHD.mpd
 
 <==================================================== SPORTS ====================================================>
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
@@ -1073,8 +1045,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
-#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png",Kairos 
+#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",TBNAsia 
 https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e19e27b1ce9b41e7a7638043c6a9dce6:689d87f13d5c1112ab76030ad3c6b995
+#EXTINF:-1 group-title="Christian Channels" tvg-name="" tvg-country="ID" tvg-logo="", PRAISE HD 
+https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
 
 <================================================= Mediacorp Singapore ======================================>
 
