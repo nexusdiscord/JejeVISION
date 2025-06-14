@@ -1707,111 +1707,6 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5das.png" group-title="Internet Radio",Pro 3 RRI
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaqtR.png" group-title="Internet Radio",Pro 1 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0gRe.png" group-title="Internet Radio",Pro 4 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaF9a.png" group-title="Internet Radio",Pro 1 RRI Ende
-https://stream-node1.rri.co.id/streaming/23/9223/rriendepro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlTTG.png" group-title="Internet Radio",Pro 2 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlzps.png" group-title="Internet Radio",Pro 2 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSadcF.png" group-title="Internet Radio",Pro 1 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlxvn.png" group-title="Internet Radio",Pro 2 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSanMN.png" group-title="Internet Radio",Pro 1 RRI Alor
-https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSa28g.png" group-title="Internet Radio",Pro 1 RRI Atambua
-https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaJF1.png" group-title="Internet Radio",Pro 1 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSafwv.png" group-title="Internet Radio",Pro 1 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaCnp.png" group-title="Internet Radio",Pro 1 RRI Labuan Bajo
-https://stream-node2.rri.co.id/streaming/37/9337/rrilabuanbajopro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaoPI.png" group-title="Internet Radio",Pro 1 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaIcX.png" group-title="Internet Radio",Pro 1 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSazFt.png" group-title="Internet Radio",Pro 1 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaA9s.png" group-title="Internet Radio",Pro 1 RRI Rote
-https://stream-node0.rri.co.id/streaming/20/9120/rrirotepro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaTSn.png" group-title="Internet Radio",Pro 1 RRI Sumba
-https://stream-node0.rri.co.id/streaming/41/9041/rrisumbapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSloYX.png" group-title="Internet Radio",Pro 2 RRI Atambua
-https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSln2t.png" group-title="Internet Radio",Pro 2 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlB4I.png" group-title="Internet Radio",Pro 2 RRI Ende
-https://stream-node1.rri.co.id/streaming/23/9223/rriendepro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlujf.png" group-title="Internet Radio",Pro 2 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlAQ4.png" group-title="Internet Radio",Pro 2 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSl5Cl.png" group-title="Internet Radio",Pro 2 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0kf2.png" group-title="Internet Radio",Pro 4 RRI Ambon
-https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS08U7.png" group-title="Internet Radio",Pro 4 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0Oil.png" group-title="Internet Radio",Pro 4 RRI Denpasar
-https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0UJ9.png" group-title="Internet Radio",Pro 4 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0rOu.png" group-title="Internet Radio",Pro 4 RRI Jayapura
-https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0Pxj.png" group-title="Internet Radio",Pro 4 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS04Db.png" group-title="Internet Radio",Pro 4 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0iWx.png" group-title="Internet Radio",Pro 4 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0vlS.png" group-title="Internet Radio",Pro 4 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5zFe.png" group-title="Internet Radio",Pro 5 RRI Makassar
-https://stream.streamaudio.de:8000/teststream3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5oP9.png" group-title="Internet Radio",Pro 5 RRI Surabaya
-https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
-
 
 <========================================== CIGNAL TV =================================================>
 
@@ -1874,7 +1769,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-25-38-793.jpg",TV UP
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd               
-                      
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-25-54-528.jpg",DEPED CH
@@ -1914,7 +1809,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-55-17-305.jpg",ROCK ACTION
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd                  
-                 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-55-39-179.jpg",DREAMWORK HD
@@ -1939,7 +1834,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-40-174.jpg",CARTOON NETWORK
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd               
-                 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-58-35-902.jpg",ANIMAX
@@ -1964,7 +1859,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-49-02-053.jpg",HBO SIGNATURE
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-               
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-50-33-890.jpg",HBO HITS
@@ -1994,17 +1889,17 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-54-06-223.jpg",AXN
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
-               
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey               
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-54-30-105.jpg",CINEMAX
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-               
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey               
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-54-57-106.jpg",WARNER TV
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd"
-               
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey               
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-58-03-800.jpg",KIX
@@ -2029,8 +1924,33 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-01-07-908.jpg",SPOTV 1
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-               
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-12-54-830.jpg",SPOTV 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-13-14-239.jpg",PREMIER TENNIS 1
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-13-40-128.jpg",PREMIER SPORTS 2
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-14-11-423.jpg",TAP SPORTS",
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-16-27-154.jpg",ONE SPORTS+
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-15-48-580.jpg",ONE SPORTS
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
