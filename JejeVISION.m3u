@@ -1846,4 +1846,42 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-55-39-179.jpg",DREAMWORK HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd   
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd               
+     
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-55-55-893.jpg",MOONBUG
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd                   
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-09-524.jpg",NICKELODEON
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd    
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-23-398.jpg",NICK JR
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd           
+                 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-40-174.jpg",CARTOON NETWORK
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd               
+                 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-58-35-902.jpg",ANIMAX
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd              
+            },
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-46-38-539.jpg",HITS NOW
+#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
+               
+                 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey            },
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+#EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_13-47-46-724.jpg",HBO HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
