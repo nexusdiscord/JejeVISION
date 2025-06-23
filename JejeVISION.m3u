@@ -913,10 +913,13 @@ https://legacy-global-cdn.visionplus.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-New
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="Kids",Dreamworks HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="Kids",Kids TV
-https://legacy-global-cdn.visionplus.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="Kids",Cbeebies
