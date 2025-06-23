@@ -70,7 +70,6 @@ https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 ##https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
 
-
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/49ea9376-40ad-4d55-8c25-6b6451201b91.png" group-title="Indonesia Channels",TransTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
