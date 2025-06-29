@@ -1165,6 +1165,24 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
+#EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="Sports", CHAMPIONS GOLF 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm
+https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
+
+#EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="Sports", CHAMPIONS GOLF 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm
+https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports", PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=dash
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
