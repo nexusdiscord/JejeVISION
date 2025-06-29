@@ -1183,6 +1183,9 @@ https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=drm 
 https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=dash
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="Sports",SKYSPORTS PREMIER LEAGUE
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
