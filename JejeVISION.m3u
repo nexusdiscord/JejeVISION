@@ -1111,53 +1111,13 @@ https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
-
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
-
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
-
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Sports",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
-
-
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Sports",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=dash
-
 #EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="Sports", CHAMPIONS GOLF 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
-
 #EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="Sports", CHAMPIONS GOLF 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
-
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=9353&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="Sports",SKYSPORTS PREMIER LEAGUE
 https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
@@ -1204,10 +1164,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="Sports", NBA TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=drm
-https://skyblue.openwindow043.workers.dev/play.mpd?id=6717&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
