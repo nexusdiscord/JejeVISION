@@ -1452,7 +1452,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="Malaysia", BERNAMA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Bernama
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
