@@ -479,17 +479,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Premium Movies", ETV BIOSKOP 1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Premium Movies", ETV BIOSKOP 2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Premium Movies", ETV BIOSKOP 3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Premium Movies",  ETV BIOSKOP 4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
-
-
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
