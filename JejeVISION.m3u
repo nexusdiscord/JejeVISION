@@ -1915,5 +1915,10 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="JakTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Trial",JAK TV
-https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/JAKTV.m3u8
-chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/JAKTV.m3u8
+ttps://etslive-v3-vidio-com-tokenized.akamaized.net/stream/5415/file/hls-p/ingest_5415_720p/hdntl=exp=1751970166~acl=%2fstream%2f5415%2ffile%2f*~id=187023799~data=hdntl~hmac=a61c271cb50c12d0be6b60f4631f2ab59b97c5176fa2d5828f3cdbe6f5142c3e/index.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Trial",SCTV FHD
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/hls-p/ingest_204_720p/hdntl=exp=1751969970~acl=%2fstream%2f204%2ffile%2f*~id=187023799~data=hdntl~hmac=7516c8d30868ee770865e6ccda0b1d9e9714395d49559f5815280bb6765f63e6/index.m3u8
