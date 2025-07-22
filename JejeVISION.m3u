@@ -1841,7 +1841,7 @@ https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/Jaw
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/Jitvjogja.m3u8
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1180547583.m3u8
 
 #EXTVLCOPT:http-referrer=https://jogjatv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
