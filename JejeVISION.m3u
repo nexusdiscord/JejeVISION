@@ -186,7 +186,7 @@ https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.favpng.com/5/15/14/beritasatu-com-logo-beritasatu-media-holdings-news-png-favpng-ascxjWXRYnY9w2tGEsZusEmJa.jpg",Berita Satu
-https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
@@ -337,8 +337,7 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26597
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
-
-
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/30185
 
 <=============================================== Premium Movies =========================================>
 
@@ -1841,7 +1840,7 @@ https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/Jaw
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/Jitvjogja.m3u8
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1180547583.m3u8
 
 #EXTVLCOPT:http-referrer=https://jogjatv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
