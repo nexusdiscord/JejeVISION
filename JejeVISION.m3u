@@ -686,7 +686,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 #EXTINF:-1 tvg-id="natgeowild.us" group-title="Knowledge & Documentary" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 http://fortv.cc:8080/live/q8KuDU/354945/11664.ts
 
-#EXTINF:-1 tvg-id="natgeo.us" group-title="Knowledge & Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
+#EXTINF:-1 tvg-id="natgeo.us" group-title="Knowledge & Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" ,National Geographic
 http://fortv.cc:8080/live/q8KuDU/354945/9277.ts
 
 
@@ -1161,19 +1161,22 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=
 #EXTINF:-1 tvg-id="a3cine.us" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://fortv.cc:8080/live/q8KuDU/354945/20073.ts
 
-#EXTINF:-1 tvg-id="tsn1.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="Sports",Spectrum SportsNet LA
+http://fortv.cc:8080/live/q8KuDU/354945/21842.ts
+
+#EXTINF:-1 tvg-id="tsn1.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png",TSN 1
 http://fortv.cc:8080/live/q8KuDU/354945/57292.ts
 
-#EXTINF:-1 tvg-id="tsn2.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
+#EXTINF:-1 tvg-id="tsn2.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
 http://fortv.cc:8080/live/q8KuDU/354945/47442.ts
 
-#EXTINF:-1 tvg-id="tsn3.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
+#EXTINF:-1 tvg-id="tsn3.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
 http://fortv.cc:8080/live/q8KuDU/354945/10389.ts
 
-#EXTINF:-1 tvg-id="tsn4.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
+#EXTINF:-1 tvg-id="tsn4.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
 http://fortv.cc:8080/live/q8KuDU/354945/66783.ts
 
-#EXTINF:-1 tvg-id="tsn5.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
+#EXTINF:-1 tvg-id="tsn5.ca" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
 http://fortv.cc:8080/live/q8KuDU/354945/57467.ts
 
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
@@ -1205,6 +1208,8 @@ http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
 #EXTINF:-1 tvg-id="thecowboychannel.us" group-title="Sports" tvg-logo="",Cowboy Channel
 http://fortv.cc:8080/live/q8KuDU/354945/122527.ts
+
+
 
 
 
