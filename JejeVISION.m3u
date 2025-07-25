@@ -214,10 +214,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd  
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -477,6 +473,7 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/35484
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Premium Movies",FLIK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
 http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
