@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="" group-title="Indonesia Channels",RCTI HD (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
@@ -19,7 +19,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="Indonesia Channels",MNC TV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
@@ -28,7 +28,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia Channels",GTV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
@@ -64,7 +64,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",TransTV HD (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
@@ -78,7 +78,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_s
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
@@ -114,7 +114,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Indonesia Channels",ANTV (V+)
@@ -131,7 +131,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
@@ -141,7 +141,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
@@ -164,7 +164,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
@@ -192,7 +192,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
@@ -219,7 +219,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX (V+)
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
@@ -244,7 +244,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/ind
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 #EXTINF:-1 tvg-id="" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png",BTV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
@@ -267,7 +267,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="Indonesia Channels",DAAI TV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
@@ -282,7 +282,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
@@ -404,7 +404,7 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="Premium Movies", STUDIO UNIVERSAL (V+)
@@ -435,7 +435,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN (V+)
@@ -954,7 +954,7 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
@@ -1037,7 +1037,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Indonesian Entertainment & Movies",CelebritiesTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
@@ -1320,7 +1320,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
@@ -1329,7 +1329,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars ᴴᴰ
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -1339,7 +1339,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2 ᴴᴰ
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
@@ -1358,7 +1358,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports", SPORTSTARS 4 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
@@ -1412,17 +1412,17 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 1 AU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 2 AU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 3 AU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
