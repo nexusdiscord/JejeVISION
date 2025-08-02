@@ -472,13 +472,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Premium Movies",FLIK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
