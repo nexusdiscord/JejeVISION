@@ -1910,6 +1910,96 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="http://zamlb.co.uk:80/images/0MiIm5awJBS5Tm7uRVO4_5hOpzcFnqvnB0Gg8d_92qSIb0O6cGQJ1xU3vRDkudUuuKhwY4C8u4uebO302FbjdLIu4QCCVaRFSzqcqMBYKAiU6BZ4WjXpTMlHfPPlW59FFNw8quGSguYpWLW402ud7Q.png" group-title="Sports",FUBO SPORTS 2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sport 1 HD" tvg-logo="http://zamlb.co.uk:80/images/GTNx5Excw6NLzFTLI_g7fYSkwBiO_rlQkEctbGQ3z3msBbMWUSDKVI6ySk1febXeLX-7YYgUiRmhoFxbA_I5qia7BCkN8uwc-cnwGXwUh6N6cXg9LzZOe7gLF-azwVUX763O1ypZIjxMoBYFXZWccxsnLylKKv2ILJJAYB_KvHpKc0AX8Vx_3PiPTW1RzqrT.png" group-title="Sports",Sky Sport 1 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117623.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="Sky Sport 2 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5yd7PISA9-ZTC5QEScWqzZU.png" group-title="Sports",Sky Sport 2 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117624.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sport 3 HD" tvg-logo="http://zamlb.co.uk:80/images/DqnTYTXnhgnJlQ6HVOKViiV6U69QQ2_lEkEU6VGizQ-3pCeEjIRdWCiOzX6YKLJH313Zj4IQH5s0-9t6TiWSkr-gmjXHhmJC5vLNOyVtVxA.png" group-title="Sports",Sky Sport 3 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117625.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="Sky Sport 4 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_vXnDhC4NQY1fA_B9GoTv8.png" group-title="Sports",Sky Sport 4 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117626.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="Sky Sport 5 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_AO9XtIIjn7PEMHhiaZ0QQ.png" group-title="Sports",Sky Sport 5 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117627.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="Sky Sport 6 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5xW4WKfUK0iD_KAiPId8BLg.png" group-title="Sports",Sky Sport 6 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117628.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="Sky Sport 7 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy52Zn0cb-2xMNOwNr2rykiEE.png" group-title="Sports",Sky Sport 7 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117629.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="Sky Sport 8 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5__Y-tsqm0quqCJh8jj_PYs.png" group-title="Sports",Sky Sport 8 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117630.ts
+
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="Sky Sport 9 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_62WYT8uwltE30qpRmpAX8.png" group-title="Sports",Sky Sport 9 HD
+http://zamlb.co.uk:80/live/kilo/kilo/117631.ts
+
 
 
 <========================================================= NEWS ============================================================>
