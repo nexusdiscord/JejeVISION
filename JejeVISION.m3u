@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml"
 
 
@@ -932,6 +933,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api-mbed.my.id/wv/play.go/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="451" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Entertainment & LifeStyle",Warner TV
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:network-caching=1000
@@ -1264,11 +1274,41 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" tvg-id="NickJr.id" , Nickelodeon Junior (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Kids" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/jjF8kW3.jpg" ,Mentari TV
-https://popmi.my.id/tes.m3u8?id=8237
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Spacetoon_logo.png/revision/latest/smart/width/386/height/259?cb=20180926071319" tvg-name="" group-title="Kids",Spacetoon
+https://why.biz.id/Iptv/oxygen.php?id=spacetoon
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="Kids" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ,Mentari TV
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="26" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/PlanetFun_logo_last.png/revision/latest?cb=20230115174146" tvg-name="" group-title="Kids",Planet Fun 
+https://why.biz.id/Iptv/oxygen.php?id=planetfun
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/7/7b/ToonMax_-_logo.png/revision/latest?cb=20250727235743" tvg-name="" group-title="Kids",Toonmax
+https://why.biz.id/Iptv/oxygen.php?id=toonmax
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/2560px-EBS_KIDS.svg.png" tvg-name="" group-title="Kids",EBS Kids 
+https://why.biz.id/Iptv/oxygen.php?id=ebskids
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="26" tvg-logo="https://png.pngtree.com/png-vector/20211008/ourmid/pngtree-kids-zone-label-text-attractive-design-png-image_3976489.png" tvg-name="Dei Kids" group-title="Kids", Kids Zone Plus
+https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1291,7 +1331,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="boomerang.us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
-http://fortv.cc:8080/live/q8KuDU/354945/14741.ts
+http://zamlb.co.uk:80/live/kilo/kilo/1840.ts
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
