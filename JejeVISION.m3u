@@ -1276,37 +1276,37 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-name="" group-title="Kids",Spacetoon
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Spacetoon_logo.png/revision/latest/smart/width/386/height/259?cb=20180926071319" tvg-name="" group-title="Kids",Spacetoon
 https://why.biz.id/Iptv/oxygen.php?id=spacetoon
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Kids" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/jjF8kW3.jpg" ,Mentari TV
+#EXTINF:-1 group-title="Kids" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ,Mentari TV
 https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-name="Dei Kids" group-title="Kids",Planet Fun 
+#EXTINF:-1 tvg-id="26" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/PlanetFun_logo_last.png/revision/latest?cb=20230115174146" tvg-name="" group-title="Kids",Planet Fun 
 https://why.biz.id/Iptv/oxygen.php?id=planetfun
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-name="Dei Kids" group-title="Kids",Toonmax
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/7/7b/ToonMax_-_logo.png/revision/latest?cb=20250727235743" tvg-name="" group-title="Kids",Toonmax
 https://why.biz.id/Iptv/oxygen.php?id=toonmax
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-name="Dei Kids" group-title="Kids",EBS Kids 
+#EXTINF:-1 tvg-id="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/2560px-EBS_KIDS.svg.png" tvg-name="" group-title="Kids",EBS Kids 
 https://why.biz.id/Iptv/oxygen.php?id=ebskids
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-name="Dei Kids" group-title="Kids", Kids Zone Plus
+#EXTINF:-1 tvg-id="26" tvg-logo="https://png.pngtree.com/png-vector/20211008/ourmid/pngtree-kids-zone-label-text-attractive-design-png-image_3976489.png" tvg-name="Dei Kids" group-title="Kids", Kids Zone Plus
 https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
