@@ -845,6 +845,24 @@ http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1557
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="Nat Geo Wild SD" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png" group-title="Knowledge & Documentary",Nat Geo Wild SD
 http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1559
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="Discovery Turbo SD" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Knowledge & Documentary",Discovery Turbo 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1566
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery Science
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1563
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD" tvg-logo="https://cdn.imgbin.com/0/5/0/imgbin-discovery-history-discovery-channel-logo-discovery-networks-emea-television-channel-others-e5dfrQ9ysU3P0hAbqYfBp3Swx.jpg" group-title="Knowledge & Documentary",Discovery History 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1565
+
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
