@@ -430,6 +430,25 @@ https://gitea.com/Muhasyari/Testing/raw/branch/main/cinemax.m3u8
 
 <=============================================== Premium Movies =========================================>
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40914086653a342f803a330aa85f6350:20ab2f2451ecf474203fb8f7acb85436
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5-SlrNGOByymsnakF-EObf8.png" group-title="Premium Movies",Syfy HD East
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(syfy-east)/master.mpd
+
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5-SlrNGOByymsnakF-EObf8.png" group-title="Movies Eng-Sub",Syfy HD West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e826cd8da45312596c0ebbc282d1094:072bd089aab2971765532433155fefdf
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5-SlrNGOByymsnakF-EObf8.png" group-title="Premium Movies",Syfy HD West
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(syfy-west)/master.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
